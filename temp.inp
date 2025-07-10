@@ -1,6 +1,6 @@
 ; Filename: PK_QD28_TESTE_DOS_NOS_DUPLICADOS (20).inp
 ; WNTR: 1.3.2
-; Created: 2025-07-10 08:08:01
+; Created: 2025-07-10 14:05:03
 [TITLE]
 
 [JUNCTIONS]
@@ -500,7 +500,7 @@
 
 [RESERVOIRS]
 ;ID                                   Head                  Pattern
- R1                           1159.99                            ;
+ R1                           1156.99                            ;
 
 [TANKS]
 ;ID                              Elevation           Init Level            Min Level            Max Level             Diameter           Min Volume Volume Curve         Overflow            
@@ -863,7 +863,6 @@
  P363                 N340                 N341                    49.135335215              32             140               0                 Open   ;
  P364                 N341                 N342                    42.510585971              32             140               0                 Open   ;
  P365                 N342                 N335                     7.780316738              32             140               0                 Open   ;
- P366                 N16                  N343                    23.901167518              32             140               0                 Open   ;
  P367                 N343                 N344                    41.438253455              32             140               0                 Open   ;
  P368                 N344                 N345                     62.49341942              32             140               0                 Open   ;
  P369                 N345                 N346                    71.208637144              32             140               0                 Open   ;
@@ -872,11 +871,9 @@
  P372                 N348                 N349                    69.011408528              32             140               0                 Open   ;
  P373                 N349                 N350                    36.452220846              32             140               0                 Open   ;
  P374                 N350                 N343                    7.3795364046              32             140               0                 Open   ;
- P375                 N17                  N351                    188.12067746              32             140               0                 Open   ;
  P376                 N351                 N352                    44.206643021              32             140               0                 Open   ;
  P377                 N352                 N353                    52.316450249              32             140               0                 Open   ;
  P378                 N353                 N354                    45.869007359              32             140               0                 Open   ;
- P379                 N22                  N355                    61.343529335              32             140               0                 Open   ;
  P380                 N355                 N356                    54.320705326              32             140               0                 Open   ;
  P381                 N356                 N357                    44.729808239              32             140               0                 Open   ;
  P382                 N357                 N358                    50.446840577              32             140               0                 Open   ;
@@ -1049,6 +1046,9 @@
 
 [VALVES]
 ;ID                   Node1                Node2                            Diameter Type              Setting           Minor Loss
+ VRP_P379             N22                  N355                              32 PRV               20              10   ;
+ VRP_P375             N17                  N351                              32 PRV               20              10   ;
+ VRP_P366             N16                  N343                              32 PRV               20              10   ;
 
 [TAGS]
 ;type      name       tag       
