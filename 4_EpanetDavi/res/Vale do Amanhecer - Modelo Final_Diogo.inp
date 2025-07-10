@@ -1,0 +1,1783 @@
+[TITLE]
+
+
+[JUNCTIONS]
+;ID              	Elev        	Demand      	Pattern         
+ J10             	940.000000  	0           	Consumo         	;New Junction
+ J100            	945.820435  	0.022909    	Consumo         	;New Junction
+ J1000           	918.945374  	0.076365    	Consumo         	;New Junction
+ J1002           	924.396179  	0.122184    	Consumo         	;New Junction
+ J1004           	928.519287  	0.045819    	Consumo         	;New Junction
+ J1006           	928.585938  	0.068728    	Consumo         	;New Junction
+ J1008           	954.054138  	0           	Consumo         	;New Junction
+ J1010           	948.263306  	0           	Consumo         	;New Junction
+ J1012           	948.263306  	0.007636    	Consumo         	;New Junction
+ J1014           	931.116272  	0.106911    	Consumo         	;New Junction
+ J1016           	930.877625  	0.038182    	Consumo         	;New Junction
+ J1018           	930.190735  	0.030546    	Consumo         	;New Junction
+ J102            	934.969238  	0.076365    	Consumo         	;New Junction
+ J1020           	929.549011  	0.038182    	Consumo         	;New Junction
+ J1022           	927.701294  	0.015273    	Consumo         	;New Junction
+ J1024           	928.670532  	0.007636    	Consumo         	;New Junction
+ J1026           	928.670532  	0           	Consumo         	;New Junction
+ J1028           	928.670532  	0.015273    	Consumo         	;New Junction
+ J1030           	954.593689  	0           	Consumo         	;New Junction
+ J1032           	954.175171  	0           	Consumo         	;New Junction
+ J1034           	929.825439  	0.045819    	Consumo         	;New Junction
+ J1036           	931.114502  	0.053455    	Consumo         	;New Junction
+ J1038           	939.207336  	0.045819    	Consumo         	;New Junction
+ J104            	934.347717  	0.015273    	Consumo         	;New Junction
+ J1040           	929.829529  	0.030546    	Consumo         	;New Junction
+ J1042           	930.227234  	0.030546    	Consumo         	;New Junction
+ J1044           	931.237366  	0.022909    	Consumo         	;New Junction
+ J1046           	931.489807  	0.030546    	Consumo         	;New Junction
+ J1048           	931.828613  	0.038182    	Consumo         	;New Junction
+ J1050           	932.054993  	0.038182    	Consumo         	;New Junction
+ J1052           	932.880981  	0.030546    	Consumo         	;New Junction
+ J1054           	933.610840  	0.084001    	Consumo         	;New Junction
+ J1056           	933.867981  	0.030546    	Consumo         	;New Junction
+ J1058           	934.612305  	0.038182    	Consumo         	;New Junction
+ J106            	913.102905  	0           	Consumo         	;New Junction
+ J1060           	937.666382  	0.045819    	Consumo         	;New Junction
+ J1062           	954.054138  	0           	Consumo         	;RAP.VAM.001.FIT.002.000.000
+ J1064           	950.895813  	0           	Consumo         	;New Junction
+ J108            	913.102905  	0.030546    	Consumo         	;New Junction
+ J1088           	939.276245  	0           	Consumo         	;New Junction
+ J1098           	934.460449  	0           	Consumo         	;New Junction
+ J110            	911.876770  	0           	Consumo         	;New Junction
+ J1100           	934.077881  	0.038182    	Consumo         	;New Junction
+ J112            	911.876770  	0.007636    	Consumo         	;New Junction
+ J114            	918.156433  	0.038182    	Consumo         	;New Junction
+ J116            	916.638611  	0.015273    	Consumo         	;New Junction
+ J118            	940.000000  	0           	Consumo         	;New Junction
+ J12             	940.000000  	0           	Consumo         	;New Junction
+ J120            	940.000000  	0           	Consumo         	;New Junction
+ J122            	939.956787  	0.053455    	Consumo         	;New Junction
+ J124            	939.756714  	0.053455    	Consumo         	;New Junction
+ J126            	939.276245  	0           	Consumo         	;New Junction
+ J128            	938.631897  	0.038182    	Consumo         	;New Junction
+ J130            	938.748901  	0.084001    	Consumo         	;New Junction
+ J132            	930.564636  	0.022909    	Consumo         	;New Junction
+ J134            	929.470642  	0.022909    	Consumo         	;New Junction
+ J136            	913.708618  	0.152730    	Consumo         	;New Junction
+ J14             	947.350586  	0.068728    	Consumo         	;New Junction
+ J146            	937.885803  	0.038182    	Consumo         	;New Junction
+ J148            	936.216675  	0           	Consumo         	;New Junction
+ J150            	933.208313  	0.068728    	Consumo         	;New Junction
+ J152            	932.074524  	0.084001    	Consumo         	;New Junction
+ J154            	934.501709  	0.022909    	Consumo         	;New Junction
+ J156            	938.539490  	0           	Consumo         	;New Junction
+ J158            	938.301758  	0.007636    	Consumo         	;New Junction
+ J16             	951.120239  	0.022909    	Consumo         	;New Junction
+ J160            	938.038635  	0.038182    	Consumo         	;New Junction
+ J162            	937.169128  	0.015273    	Consumo         	;New Junction
+ J164            	936.828308  	0           	Consumo         	;New Junction
+ J166            	935.917664  	0.038182    	Consumo         	;New Junction
+ J168            	934.748657  	0.022909    	Consumo         	;New Junction
+ J170            	934.460449  	0.015273    	Consumo         	;New Junction
+ J172            	915.118103  	0.007636    	Consumo         	;New Junction
+ J174            	925.639832  	0.076365    	Consumo         	;New Junction
+ J176            	923.496460  	0.076365    	Consumo         	;New Junction
+ J178            	935.439819  	0.015273    	Consumo         	;New Junction
+ J18             	962.321472  	0           	Consumo         	;New Junction
+ J180            	933.635437  	0.007636    	Consumo         	;New Junction
+ J182            	936.813171  	0.022909    	Consumo         	;New Junction
+ J184            	935.429626  	0.038182    	Consumo         	;New Junction
+ J186            	939.285767  	0.045819    	Consumo         	;New Junction
+ J188            	924.000000  	0           	Consumo         	;New Junction
+ J190            	923.742493  	0           	Consumo         	;New Junction
+ J192            	934.920349  	0           	Consumo         	;New Junction
+ J194            	935.000000  	0           	Consumo         	;New Junction
+ J196            	926.354492  	0.007636    	Consumo         	;New Junction
+ J198            	926.354492  	0.007636    	Consumo         	;New Junction
+ J20             	936.192383  	0.084001    	Consumo         	;New Junction
+ J200            	927.957764  	0.030546    	Consumo         	;New Junction
+ J202            	942.524780  	0.053455    	Consumo         	;New Junction
+ J204            	944.929199  	0           	Consumo         	;New Junction
+ J206            	943.892822  	0.007636    	Consumo         	;New Junction
+ J208            	942.027954  	0.045819    	Consumo         	;New Junction
+ J210            	908.537659  	0           	Consumo         	;New Junction
+ J212            	908.565613  	0.007636    	Consumo         	;New Junction
+ J214            	912.281921  	0.007636    	Consumo         	;New Junction
+ J216            	908.537659  	0           	Consumo         	;New Junction
+ J218            	909.544617  	0.015273    	Consumo         	;New Junction
+ J22             	933.000000  	0.045819    	Consumo         	;New Junction
+ J220            	910.653809  	0           	Consumo         	;New Junction
+ J222            	911.876770  	0           	Consumo         	;New Junction
+ J224            	925.039429  	0.114547    	Consumo         	;New Junction
+ J226            	925.039429  	0           	Consumo         	;New Junction
+ J228            	925.039429  	0           	Consumo         	;New Junction
+ J230            	925.039429  	0.007636    	Consumo         	;New Junction
+ J232            	925.340332  	0.015273    	Consumo         	;New Junction
+ J234            	925.266663  	0.015273    	Consumo         	;New Junction
+ J236            	925.266663  	0           	Consumo         	;New Junction
+ J238            	925.266663  	0.007636    	Consumo         	;New Junction
+ J24             	924.209167  	0.198548    	Consumo         	;New Junction
+ J240            	925.161682  	0.007636    	Consumo         	;New Junction
+ J242            	925.161682  	0           	Consumo         	;New Junction
+ J244            	925.161682  	0.007636    	Consumo         	;New Junction
+ J246            	925.161682  	0.007636    	Consumo         	;New Junction
+ J248            	925.014587  	0.007636    	Consumo         	;New Junction
+ J250            	934.920349  	0           	Consumo         	;New Junction
+ J252            	934.920349  	0           	Consumo         	;New Junction
+ J254            	933.954224  	0.022909    	Consumo         	;New Junction
+ J256            	935.000000  	0.015273    	Consumo         	;New Junction
+ J258            	933.954224  	0.068728    	Consumo         	;New Junction
+ J26             	922.000000  	0.129820    	Consumo         	;New Junction
+ J260            	934.000000  	0           	Consumo         	;New Junction
+ J262            	940.681213  	0.099274    	Consumo         	;New Junction
+ J264            	938.527832  	0.045819    	Consumo         	;New Junction
+ J266            	950.175537  	0.084001    	Consumo         	;New Junction
+ J268            	937.643250  	0.030546    	Consumo         	;New Junction
+ J270            	936.191772  	0.198548    	Consumo         	;New Junction
+ J272            	933.773987  	0.244367    	Consumo         	;New Junction
+ J274            	933.000000  	0           	Consumo         	;New Junction
+ J276            	933.172180  	0.015273    	Consumo         	;New Junction
+ J278            	946.459961  	0.114547    	Consumo         	;New Junction
+ J28             	921.781006  	0.175639    	Consumo         	;New Junction
+ J280            	924.000000  	0           	Consumo         	;New Junction
+ J282            	919.775146  	0           	Consumo         	;New Junction
+ J284            	919.189758  	0           	Consumo         	;New Junction
+ J286            	929.277588  	0.030546    	Consumo         	;New Junction
+ J288            	928.810547  	0.106911    	Consumo         	;New Junction
+ J290            	924.584106  	0           	Consumo         	;New Junction
+ J292            	925.014587  	0.022909    	Consumo         	;New Junction
+ J294            	927.000000  	0.045819    	Consumo         	;New Junction
+ J296            	927.104614  	0.099274    	Consumo         	;New Junction
+ J298            	933.635437  	0.007636    	Consumo         	;New Junction
+ J30             	918.574890  	0           	Consumo         	;New Junction
+ J300            	934.347717  	0.007636    	Consumo         	;New Junction
+ J302            	934.347717  	0           	Consumo         	;New Junction
+ J304            	933.635437  	0           	Consumo         	;New Junction
+ J306            	939.397766  	0.007636    	Consumo         	;New Junction
+ J308            	939.397766  	0           	Consumo         	;New Junction
+ J310            	930.998718  	0.007636    	Consumo         	;New Junction
+ J312            	930.998718  	0.038182    	Consumo         	;New Junction
+ J314            	927.511353  	0.068728    	Consumo         	;New Junction
+ J316            	925.983459  	0.053455    	Consumo         	;New Junction
+ J318            	926.396667  	0.038182    	Consumo         	;New Junction
+ J32             	918.298584  	0.274913    	Consumo         	;New Junction
+ J320            	925.288025  	0.022909    	Consumo         	;New Junction
+ J322            	912.281921  	0           	Consumo         	;New Junction
+ J324            	912.281921  	0.068728    	Consumo         	;New Junction
+ J326            	913.313232  	0           	Consumo         	;New Junction
+ J328            	913.313232  	0.015273    	Consumo         	;New Junction
+ J330            	913.424500  	0.007636    	Consumo         	;New Junction
+ J332            	912.964111  	0           	Consumo         	;New Junction
+ J334            	920.276855  	0.007636    	Consumo         	;New Junction
+ J336            	919.381592  	0.022909    	Consumo         	;New Junction
+ J338            	922.770813  	0           	Consumo         	;New Junction
+ J34             	918.945374  	0.015273    	Consumo         	;New Junction
+ J340            	922.770813  	0.007636    	Consumo         	;New Junction
+ J342            	924.612427  	0.053455    	Consumo         	;New Junction
+ J344            	925.581116  	0.015273    	Consumo         	;New Junction
+ J346            	930.059814  	0.007636    	Consumo         	;New Junction
+ J348            	929.995972  	0.015273    	Consumo         	;New Junction
+ J350            	928.204834  	0.007636    	Consumo         	;New Junction
+ J352            	928.204834  	0.007636    	Consumo         	;New Junction
+ J354            	932.762085  	0           	Consumo         	;New Junction
+ J356            	932.762085  	0.015273    	Consumo         	;New Junction
+ J358            	938.163513  	0.091638    	Consumo         	;New Junction
+ J36             	918.574890  	0.183276    	Consumo         	;New Junction
+ J360            	937.328552  	0.022909    	Consumo         	;New Junction
+ J362            	937.818298  	0.007636    	Consumo         	;New Junction
+ J364            	941.959106  	0.015273    	Consumo         	;New Junction
+ J366            	942.812439  	0           	Consumo         	;New Junction
+ J368            	942.502014  	0.007636    	Consumo         	;New Junction
+ J370            	942.934204  	0           	Consumo         	;New Junction
+ J372            	942.353943  	0.015273    	Consumo         	;New Junction
+ J374            	942.353943  	0.076365    	Consumo         	;New Junction
+ J376            	939.572754  	0.022909    	Consumo         	;New Junction
+ J378            	938.176575  	0.007636    	Consumo         	;New Junction
+ J38             	917.670227  	0.145093    	Consumo         	;New Junction
+ J380            	941.445190  	0.007636    	Consumo         	;New Junction
+ J382            	941.445190  	0.030546    	Consumo         	;New Junction
+ J384            	937.667114  	0.015273    	Consumo         	;New Junction
+ J386            	933.600464  	0.030546    	Consumo         	;New Junction
+ J388            	935.069397  	0.015273    	Consumo         	;New Junction
+ J390            	936.216675  	0.007636    	Consumo         	;New Junction
+ J392            	935.645569  	0.038182    	Consumo         	;New Junction
+ J394            	936.216675  	0.007636    	Consumo         	;New Junction
+ J396            	943.503967  	0.007636    	Consumo         	;New Junction
+ J398            	942.205811  	0.030546    	Consumo         	;New Junction
+ J40             	940.036621  	0.007636    	Consumo         	;New Junction
+ J400            	945.385010  	0.045819    	Consumo         	;New Junction
+ J402            	942.697266  	0.122184    	Consumo         	;New Junction
+ J404            	938.908386  	0.007636    	Consumo         	;New Junction
+ J406            	939.793945  	0.030546    	Consumo         	;New Junction
+ J408            	942.879272  	0.084001    	Consumo         	;New Junction
+ J410            	943.969055  	0.038182    	Consumo         	;New Junction
+ J412            	945.181458  	0.007636    	Consumo         	;New Junction
+ J414            	946.000000  	0           	Consumo         	;New Junction
+ J416            	946.000000  	0           	Consumo         	;New Junction
+ J418            	922.495422  	0.007636    	Consumo         	;New Junction
+ J42             	937.882446  	0.068728    	Consumo         	;New Junction
+ J420            	924.420410  	0.022909    	Consumo         	;New Junction
+ J422            	928.204834  	0           	Consumo         	;New Junction
+ J424            	928.615173  	0           	Consumo         	;New Junction
+ J426            	929.452148  	0.068728    	Consumo         	;New Junction
+ J428            	930.362061  	0           	Consumo         	;New Junction
+ J430            	932.041870  	0           	Consumo         	;New Junction
+ J432            	934.185242  	0.007636    	Consumo         	;New Junction
+ J434            	936.444397  	0.045819    	Consumo         	;New Junction
+ J436            	938.914795  	0.030546    	Consumo         	;New Junction
+ J438            	940.810791  	0.038182    	Consumo         	;New Junction
+ J44             	936.249146  	0.007636    	Consumo         	;New Junction
+ J440            	913.424500  	0           	Consumo         	;New Junction
+ J442            	913.424500  	0           	Consumo         	;New Junction
+ J444            	914.642517  	0.007636    	Consumo         	;New Junction
+ J446            	916.621094  	0.053455    	Consumo         	;New Junction
+ J448            	923.292725  	0.015273    	Consumo         	;New Junction
+ J450            	920.276855  	0.030546    	Consumo         	;New Junction
+ J452            	924.650391  	0           	Consumo         	;New Junction
+ J454            	925.791870  	0.007636    	Consumo         	;New Junction
+ J456            	932.434082  	0.045819    	Consumo         	;New Junction
+ J458            	931.297424  	0.030546    	Consumo         	;New Junction
+ J46             	935.906799  	0.015273    	Consumo         	;New Junction
+ J460            	937.274719  	0.030546    	Consumo         	;New Junction
+ J462            	924.472778  	0.030546    	Consumo         	;New Junction
+ J464            	927.303528  	0.038182    	Consumo         	;New Junction
+ J466            	923.496460  	0.022909    	Consumo         	;New Junction
+ J468            	923.496460  	0           	Consumo         	;New Junction
+ J470            	930.635498  	0           	Consumo         	;New Junction
+ J472            	928.915161  	0           	Consumo         	;New Junction
+ J474            	934.022583  	0.030546    	Consumo         	;New Junction
+ J476            	930.797852  	0.015273    	Consumo         	;New Junction
+ J478            	930.611755  	0.099274    	Consumo         	;New Junction
+ J48             	945.041626  	0.022909    	Consumo         	;New Junction
+ J480            	934.202454  	0           	Consumo         	;New Junction
+ J482            	934.501709  	0           	Consumo         	;New Junction
+ J484            	934.501709  	0           	Consumo         	;New Junction
+ J486            	934.202454  	0.022909    	Consumo         	;New Junction
+ J488            	931.941101  	0.038182    	Consumo         	;New Junction
+ J490            	929.458923  	0.084001    	Consumo         	;New Junction
+ J492            	928.067261  	0.022909    	Consumo         	;New Junction
+ J494            	928.067261  	0.038182    	Consumo         	;New Junction
+ J496            	947.225220  	0.022909    	Consumo         	;New Junction
+ J498            	946.802368  	0.038182    	Consumo         	;New Junction
+ J50             	946.225098  	0.068728    	Consumo         	;New Junction
+ J500            	947.000000  	0.022909    	Consumo         	;New Junction
+ J502            	946.000000  	0           	Consumo         	;New Junction
+ J504            	945.364685  	0.030546    	Consumo         	;New Junction
+ J506            	930.807678  	0           	Consumo         	;New Junction
+ J508            	932.000000  	0           	Consumo         	;New Junction
+ J510            	960.075073  	0           	Consumo         	;New Junction
+ J512            	962.761230  	0           	Consumo         	;New Junction
+ J514            	948.199097  	0.152730    	Consumo         	;New Junction
+ J516            	946.459961  	0.160366    	Consumo         	;New Junction
+ J518            	941.722534  	0.183276    	Consumo         	;New Junction
+ J52             	944.150391  	0           	Consumo         	;New Junction
+ J520            	947.476013  	0.221458    	Consumo         	;New Junction
+ J522            	942.761536  	0.030546    	Consumo         	;New Junction
+ J524            	934.163147  	0.061092    	Consumo         	;New Junction
+ J526            	934.365662  	0.206185    	Consumo         	;New Junction
+ J528            	934.851257  	0.030546    	Consumo         	;New Junction
+ J530            	930.150452  	0           	Consumo         	;New Junction
+ J532            	930.032166  	0           	Consumo         	;New Junction
+ J534            	930.414124  	0           	Consumo         	;New Junction
+ J536            	929.083557  	0           	Consumo         	;New Junction
+ J538            	930.414124  	0           	Consumo         	;New Junction
+ J54             	946.714233  	0.038182    	Consumo         	;New Junction
+ J540            	931.632324  	0.267277    	Consumo         	;New Junction
+ J542            	932.129028  	0.015273    	Consumo         	;New Junction
+ J544            	932.056946  	0           	Consumo         	;New Junction
+ J546            	931.545593  	0.015273    	Consumo         	;New Junction
+ J548            	930.460632  	0.007636    	Consumo         	;New Junction
+ J550            	929.814026  	0.053455    	Consumo         	;New Junction
+ J552            	931.049500  	0.068728    	Consumo         	;New Junction
+ J554            	923.752991  	0.206185    	Consumo         	;New Junction
+ J556            	923.184387  	0.091638    	Consumo         	;New Junction
+ J558            	923.040527  	0.038182    	Consumo         	;New Junction
+ J56             	952.505127  	0.007636    	Consumo         	;New Junction
+ J560            	926.349304  	0.488735    	Consumo         	;New Junction
+ J562            	930.699524  	0.450552    	Consumo         	;New Junction
+ J564            	929.000000  	0.053455    	Consumo         	;New Junction
+ J566            	933.950562  	0.053455    	Consumo         	;New Junction
+ J568            	932.000000  	0.084001    	Consumo         	;New Junction
+ J570            	938.876953  	0.152730    	Consumo         	;New Junction
+ J572            	934.423218  	0.122184    	Consumo         	;New Junction
+ J574            	937.330322  	0.129820    	Consumo         	;New Junction
+ J576            	934.084229  	0.076365    	Consumo         	;New Junction
+ J578            	934.460449  	0.007636    	Consumo         	;New Junction
+ J58             	941.578674  	0.030546    	Consumo         	;New Junction
+ J580            	933.284485  	0.038182    	Consumo         	;New Junction
+ J582            	932.541565  	0.007636    	Consumo         	;New Junction
+ J584            	940.557495  	0.221458    	Consumo         	;New Junction
+ J586            	934.746399  	0.084001    	Consumo         	;New Junction
+ J588            	935.096069  	0.053455    	Consumo         	;New Junction
+ J590            	935.000000  	0.114547    	Consumo         	;New Junction
+ J592            	934.341736  	0.168003    	Consumo         	;New Junction
+ J594            	934.000000  	0.053455    	Consumo         	;New Junction
+ J596            	937.953003  	0.175639    	Consumo         	;New Junction
+ J598            	939.364990  	0.030546    	Consumo         	;New Junction
+ J60             	941.578674  	0.007636    	Consumo         	;New Junction
+ J600            	939.380005  	0.030546    	Consumo         	;New Junction
+ J602            	938.539490  	0.022909    	Consumo         	;New Junction
+ J604            	934.746399  	0.649101    	Consumo         	;New Junction
+ J606            	939.000000  	0.397097    	Consumo         	;New Junction
+ J608            	948.263306  	0.007636    	Consumo         	;New Junction
+ J610            	948.519470  	0.053455    	Consumo         	;New Junction
+ J612            	947.947083  	0           	Consumo         	;New Junction
+ J614            	947.947083  	0.068728    	Consumo         	;New Junction
+ J616            	950.985657  	0           	Consumo         	;New Junction
+ J618            	949.438843  	0.068728    	Consumo         	;New Junction
+ J62             	940.036621  	0.007636    	Consumo         	;New Junction
+ J620            	949.743896  	0           	Consumo         	;New Junction
+ J622            	939.658508  	0.030546    	Consumo         	;New Junction
+ J624            	939.670532  	0.282550    	Consumo         	;New Junction
+ J626            	933.601074  	0.122184    	Consumo         	;New Junction
+ J628            	946.783447  	0.022909    	Consumo         	;New Junction
+ J630            	944.621216  	0.053455    	Consumo         	;New Junction
+ J632            	943.749146  	0.076365    	Consumo         	;New Junction
+ J634            	943.234924  	0.068728    	Consumo         	;New Junction
+ J636            	942.034058  	0.084001    	Consumo         	;New Junction
+ J638            	941.279663  	0.068728    	Consumo         	;New Junction
+ J64             	937.866638  	0.022909    	Consumo         	;New Junction
+ J640            	940.945740  	0.061092    	Consumo         	;New Junction
+ J642            	940.402283  	0.022909    	Consumo         	;New Junction
+ J644            	940.000000  	0           	Consumo         	;New Junction
+ J646            	953.514771  	0.007636    	Consumo         	;New Junction
+ J648            	950.895813  	0           	Consumo         	;New Junction
+ J650            	946.903809  	0.129820    	Consumo         	;New Junction
+ J652            	947.350586  	0.084001    	Consumo         	;New Junction
+ J654            	939.459839  	0.038182    	Consumo         	;New Junction
+ J656            	939.769897  	0.068728    	Consumo         	;New Junction
+ J658            	932.748047  	0           	Consumo         	;New Junction
+ J66             	934.061646  	0.030546    	Consumo         	;New Junction
+ J660            	932.772156  	0           	Consumo         	;New Junction
+ J662            	932.772156  	0.015273    	Consumo         	;New Junction
+ J664            	932.898987  	0.038182    	Consumo         	;New Junction
+ J666            	932.670654  	0           	Consumo         	;New Junction
+ J668            	932.1128    	0.007636    	Consumo         	;New Junction
+ J670            	931.554993  	0.030546    	Consumo         	;New Junction
+ J672            	932.772156  	0           	Consumo         	;New Junction
+ J674            	929.613770  	0.221458    	Consumo         	;New Junction
+ J676            	931.597961  	0.152730    	Consumo         	;New Junction
+ J678            	933.843201  	0.106911    	Consumo         	;New Junction
+ J68             	931.350342  	0.022909    	Consumo         	;New Junction
+ J680            	933.435669  	0           	Consumo         	;New Junction
+ J682            	933.000000  	0.030546    	Consumo         	;New Junction
+ J684            	932.790344  	0.099274    	Consumo         	;New Junction
+ J686            	960.919617  	0           	Consumo         	;New Junction
+ J688            	958.935486  	0           	Consumo         	;New Junction
+ J690            	957.265442  	0           	Consumo         	;New Junction
+ J692            	948.989990  	0           	Consumo         	;New Junction
+ J694            	949.489929  	0.007636    	Consumo         	;New Junction
+ J696            	953.887085  	0           	Consumo         	;New Junction
+ J698            	955.763367  	0           	Consumo         	;New Junction
+ J70             	935.175171  	0.106911    	Consumo         	;New Junction
+ J700            	949.167603  	0.053455    	Consumo         	;New Junction
+ J702            	936.921082  	0.007636    	Consumo         	;New Junction
+ J704            	947.307922  	0.061092    	Consumo         	;New Junction
+ J706            	947.125549  	0.053455    	Consumo         	;New Junction
+ J708            	938.307007  	0.038182    	Consumo         	;New Junction
+ J710            	934.674011  	0.022909    	Consumo         	;New Junction
+ J712            	932.325867  	0.504008    	Consumo         	;New Junction
+ J714            	920.528320  	0.053455    	Consumo         	;New Junction
+ J716            	919.775146  	0.068728    	Consumo         	;New Junction
+ J718            	923.271606  	0.213821    	Consumo         	;New Junction
+ J72             	937.815247  	0.129820    	Consumo         	;New Junction
+ J720            	920.230591  	0.015273    	Consumo         	;New Junction
+ J722            	920.313110  	0.022909    	Consumo         	;New Junction
+ J724            	919.599060  	0           	Consumo         	;New Junction
+ J726            	920.270813  	0           	Consumo         	;New Junction
+ J728            	922.286987  	0.404733    	Consumo         	;New Junction
+ J730            	923.796875  	0.045819    	Consumo         	;New Junction
+ J732            	923.764832  	0.129820    	Consumo         	;New Junction
+ J734            	923.955078  	0.030546    	Consumo         	;New Junction
+ J736            	925.090820  	0           	Consumo         	;New Junction
+ J738            	928.213013  	0           	Consumo         	;New Junction
+ J74             	934.826538  	0.030546    	Consumo         	;New Junction
+ J740            	926.817383  	0.030546    	Consumo         	;New Junction
+ J742            	925.789856  	0.022909    	Consumo         	;New Junction
+ J744            	924.484192  	0.099274    	Consumo         	;New Junction
+ J746            	923.934326  	0.137457    	Consumo         	;New Junction
+ J748            	933.422607  	0.175639    	Consumo         	;New Junction
+ J750            	931.240479  	0.106911    	Consumo         	;New Junction
+ J752            	931.083191  	0.137457    	Consumo         	;New Junction
+ J754            	931.317993  	0.519281    	Consumo         	;New Junction
+ J756            	932.847229  	0.221458    	Consumo         	;New Junction
+ J758            	932.431702  	0.236731    	Consumo         	;New Junction
+ J76             	935.137573  	0.038182    	Consumo         	;New Junction
+ J760            	934.164185  	0.106911    	Consumo         	;New Junction
+ J762            	932.517517  	0.038182    	Consumo         	;New Junction
+ J764            	934.384338  	0.259640    	Consumo         	;New Junction
+ J766            	930.496887  	0.252004    	Consumo         	;New Junction
+ J768            	930.458313  	0.106911    	Consumo         	;New Junction
+ J770            	930.091919  	0.244367    	Consumo         	;New Junction
+ J772            	929.202148  	0.030546    	Consumo         	;New Junction
+ J774            	926.691467  	0.114547    	Consumo         	;New Junction
+ J776            	927.556885  	0.091638    	Consumo         	;New Junction
+ J778            	929.000000  	0.145093    	Consumo         	;New Junction
+ J78             	937.791199  	0           	Consumo         	;New Junction
+ J780            	926.706177  	0.206185    	Consumo         	;New Junction
+ J782            	922.767029  	0.190912    	Consumo         	;New Junction
+ J784            	921.774109  	0.129820    	Consumo         	;New Junction
+ J786            	928.585938  	0.252004    	Consumo         	;New Junction
+ J788            	926.822632  	0.229094    	Consumo         	;New Junction
+ J790            	928.441528  	0.221458    	Consumo         	;New Junction
+ J792            	928.637695  	0.267277    	Consumo         	;New Junction
+ J794            	927.193848  	0.267277    	Consumo         	;New Junction
+ J796            	924.394348  	0.175639    	Consumo         	;New Junction
+ J798            	926.432983  	0.229094    	Consumo         	;New Junction
+ J80             	937.791199  	0           	Consumo         	;New Junction
+ J800            	924.597595  	0.061092    	Consumo         	;New Junction
+ J802            	924.564880  	0.084001    	Consumo         	;New Junction
+ J804            	928.519287  	0.122184    	Consumo         	;New Junction
+ J806            	928.585938  	0.290186    	Consumo         	;New Junction
+ J808            	929.505676  	0.076365    	Consumo         	;New Junction
+ J810            	929.259216  	0.022909    	Consumo         	;New Junction
+ J812            	929.542297  	0           	Consumo         	;New Junction
+ J814            	925.349487  	0.015273    	Consumo         	;New Junction
+ J816            	925.672913  	0.022909    	Consumo         	;New Junction
+ J818            	923.489746  	0.198548    	Consumo         	;New Junction
+ J82             	939.632813  	0.038182    	Consumo         	;New Junction
+ J820            	921.179138  	0.068728    	Consumo         	;New Junction
+ J822            	918.885437  	0.160366    	Consumo         	;New Junction
+ J824            	920.000000  	0.137457    	Consumo         	;New Junction
+ J826            	918.682556  	0.068728    	Consumo         	;New Junction
+ J828            	918.682556  	0.038182    	Consumo         	;New Junction
+ J830            	917.101807  	0.007636    	Consumo         	;New Junction
+ J832            	917.101807  	0.091638    	Consumo         	;New Junction
+ J834            	935.906799  	0.015273    	Consumo         	;New Junction
+ J836            	936.293762  	0.007636    	Consumo         	;New Junction
+ J838            	933.431580  	0.007636    	Consumo         	;New Junction
+ J84             	938.785156  	0.022909    	Consumo         	;New Junction
+ J840            	944.150391  	0           	Consumo         	;New Junction
+ J842            	939.657227  	0.076365    	Consumo         	;New Junction
+ J844            	940.000000  	0.045819    	Consumo         	;New Junction
+ J846            	939.617432  	0.030546    	Consumo         	;New Junction
+ J848            	939.527527  	0.099274    	Consumo         	;New Junction
+ J850            	955.000000  	0           	Consumo         	;New Junction
+ J854            	954.648132  	0           	Consumo         	;New Junction
+ J856            	955.000000  	0           	Consumo         	;New Junction
+ J858            	954.648132  	0           	Consumo         	;New Junction
+ J86             	947.500427  	0.099274    	Consumo         	;New Junction
+ J862            	954.054138  	0           	Consumo         	;RAP.VAM.001.FIT.002.000.000
+ J864            	954.054138  	0           	Consumo         	;New Junction
+ J866            	954.054138  	0           	Consumo         	;New Junction
+ J868            	955.982422  	0.007636    	Consumo         	;New Junction
+ J870            	955.982422  	0           	Consumo         	;New Junction
+ J872            	939.207336  	0           	Consumo         	;New Junction
+ J874            	931.018921  	0.007636    	Consumo         	;New Junction
+ J876            	930.672058  	0.061092    	Consumo         	;New Junction
+ J878            	931.114502  	0           	Consumo         	;New Junction
+ J88             	950.273987  	0           	Consumo         	;New Junction
+ J880            	931.114502  	0           	Consumo         	;New Junction
+ J884            	935.224854  	0.015273    	Consumo         	;New Junction
+ J886            	937.866089  	0.015273    	Consumo         	;New Junction
+ J888            	938.724365  	0.061092    	Consumo         	;New Junction
+ J890            	932.310486  	0.030546    	Consumo         	;New Junction
+ J892            	919.189758  	0           	Consumo         	;New Junction
+ J894            	936.247986  	0.022909    	Consumo         	;New Junction
+ J896            	939.116028  	0.015273    	Consumo         	;New Junction
+ J898            	939.207336  	0.007636    	Consumo         	;New Junction
+ J90             	947.111023  	0.022909    	Consumo         	;New Junction
+ J900            	939.207336  	0           	Consumo         	;New Junction
+ J902            	939.207336  	0           	Consumo         	;New Junction
+ J904            	939.459839  	0           	Consumo         	;New Junction
+ J906            	939.459839  	0.022909    	Consumo         	;New Junction
+ J908            	938.852356  	0.274913    	Consumo         	;New Junction
+ J910            	930.998718  	0.038182    	Consumo         	;New Junction
+ J912            	913.549988  	0.030546    	Consumo         	;New Junction
+ J914            	930.059814  	0.007636    	Consumo         	;New Junction
+ J916            	933.495667  	0.022909    	Consumo         	;New Junction
+ J918            	944.359253  	0.015273    	Consumo         	;New Junction
+ J92             	945.749268  	0.007636    	Consumo         	;New Junction
+ J920            	944.150391  	0           	Consumo         	;New Junction
+ J922            	939.397766  	0.007636    	Consumo         	;New Junction
+ J924            	942.655762  	0.038182    	Consumo         	;New Junction
+ J926            	930.414124  	0           	Consumo         	;New Junction
+ J928            	930.414124  	0           	Consumo         	;New Junction
+ J930            	937.345032  	0.007636    	Consumo         	;New Junction
+ J932            	922.060852  	0.145093    	Consumo         	;New Junction
+ J934            	920.890198  	0.015273    	Consumo         	;New Junction
+ J936            	922.231262  	0.106911    	Consumo         	;New Junction
+ J938            	925.014587  	0           	Consumo         	;New Junction
+ J94             	946.115051  	0.007636    	Consumo         	;New Junction
+ J940            	925.014587  	0           	Consumo         	;New Junction
+ J942            	925.014587  	0           	Consumo         	;New Junction
+ J944            	925.014587  	0           	Consumo         	;New Junction
+ J946            	924.584106  	0           	Consumo         	;New Junction
+ J948            	924.584106  	0           	Consumo         	;New Junction
+ J950            	924.584106  	0.007636    	Consumo         	;New Junction
+ J952            	924.584106  	0           	Consumo         	;New Junction
+ J954            	940.542725  	0.038182    	Consumo         	;New Junction
+ J956            	944.611328  	0.022909    	Consumo         	;New Junction
+ J958            	942.790588  	0           	Consumo         	;New Junction
+ J96             	944.754272  	0.007636    	Consumo         	;New Junction
+ J960            	925.390076  	0           	Consumo         	;New Junction
+ J962            	930.998718  	0           	Consumo         	;New Junction
+ J970            	936.008667  	0.007636    	Consumo         	;New Junction
+ J972            	936.008667  	0           	Consumo         	;New Junction
+ J974            	936.008667  	0           	Consumo         	;New Junction
+ J976            	936.008667  	0           	Consumo         	;New Junction
+ J978            	936.807861  	0           	Consumo         	;New Junction
+ J98             	942.207092  	0.038182    	Consumo         	;New Junction
+ J980            	936.008667  	0           	Consumo         	;New Junction
+ J986            	936.221497  	0.007636    	Consumo         	;New Junction
+ J988            	930.458313  	0           	Consumo         	;New Junction
+ J990            	936.926453  	0           	Consumo         	;New Junction
+ J992            	934.384338  	0.526917    	Consumo         	;New Junction
+ J994            	939.207336  	0           	Consumo         	;New Junction
+ J996            	925.349487  	0.053455    	Consumo         	;New Junction
+ J998            	918.587341  	0.168003    	Consumo         	;New Junction
+ V8002_NU        	936.008667  	0           	Consumo         	;Connecting junction
+ V8002_ND        	936.008667  	0           	Consumo         	;Connecting junction
+ J1110           	957.196350  	0           	                	;
+ J1112           	955.0000    	0           	                	;
+
+[RESERVOIRS]
+;ID              	Head        	Pattern         
+ CAP.CQZ         	1000        	                	;
+
+[TANKS]
+;ID              	Elevation   	InitLevel   	MinLevel    	MaxLevel    	Diameter    	MinVol      	VolCurve        	Overflow
+ RAP.VAM.001.LIT.001.000	955.000000  	5.000000    	1.000000    	5.000000    	20.600000   	333.290000  	                	;
+ RAP.VAM.001.LIT.002.000	954.642822  	5.000000    	1.000000    	5.000000    	20.300000   	333.290000  	                	;
+
+[PIPES]
+;ID              	Node1           	Node2           	Length      	Diameter    	Roughness   	MinorLoss   	Status
+ 0               	J10             	J12             	0.812481    	250.000000  	135.000000  	0.000000    	Open  	;
+ 1               	J14             	J16             	6.294194    	300.000000  	135.000000  	0.000000    	Open  	;
+ 10              	J38             	J36             	226.210125  	110.000000  	132.500000  	0.000000    	Open  	;
+ 100             	J22             	J274            	14.673712   	60.000000   	132.500000  	0.000000    	Open  	;
+ 101             	J274            	J276            	49.187364   	60.000000   	132.500000  	0.000000    	Open  	;
+ 102             	J276            	J272            	8.583184    	60.000000   	132.500000  	0.000000    	Open  	;
+ 103             	J266            	J278            	171.439240  	32.000000   	135.000000  	0.000000    	Open  	;
+ 104             	J280            	J188            	4.461123    	60.000000   	132.500000  	0.000000    	Open  	;
+ 105             	J282            	J284            	11.107013   	160.000000  	135.000000  	0.000000    	Open  	;
+ 106             	J286            	J288            	5.195134    	110.000000  	132.500000  	0.000000    	Open  	;
+ 107             	J290            	J280            	9.407950    	60.000000   	132.500000  	0.000000    	Open  	;
+ 108             	J250            	J192            	4.556865    	60.000000   	132.500000  	0.000000    	Open  	;
+ 109             	J248            	J292            	2.300819    	60.000000   	132.500000  	0.000000    	Open  	;
+ 11              	J40             	J42             	10.994385   	60.000000   	132.500000  	0.000000    	Open  	;
+ 110             	J292            	J294            	61.967246   	60.000000   	132.500000  	0.000000    	Open  	;
+ 111             	J294            	J296            	85.068102   	60.000000   	132.500000  	0.000000    	Open  	;
+ 112             	J180            	J298            	4.312922    	60.000000   	132.500000  	0.000000    	Open  	;
+ 113             	J300            	J302            	4.576210    	60.000000   	132.500000  	0.000000    	Open  	;
+ 114             	J302            	J304            	4.576210    	60.000000   	132.500000  	0.000000    	Open  	;
+ 115             	J306            	J308            	4.062770    	32.000000   	135.000000  	0.000000    	Open  	;
+ 116             	J310            	J312            	3.590014    	60.000000   	132.500000  	0.000000    	Open  	;
+ 117             	J314            	J316            	4.846452    	32.000000   	135.000000  	0.000000    	Open  	;
+ 118             	J318            	J320            	4.110487    	32.000000   	135.000000  	0.000000    	Open  	;
+ 119             	J322            	J324            	3.690000    	32.000000   	135.000000  	0.000000    	Open  	;
+ 12              	J44             	J46             	8.566008    	60.000000   	132.500000  	0.000000    	Open  	;
+ 120             	J326            	J328            	4.630011    	32.000000   	135.000000  	0.000000    	Open  	;
+ 121             	J330            	J332            	5.300000    	32.000000   	135.000000  	0.000000    	Open  	;
+ 122             	J334            	J336            	5.662579    	32.000000   	135.000000  	0.000000    	Open  	;
+ 123             	J338            	J340            	5.120957    	32.000000   	135.000000  	0.000000    	Open  	;
+ 124             	J342            	J344            	5.183098    	32.000000   	135.000000  	0.000000    	Open  	;
+ 125             	J346            	J348            	3.872002    	32.000000   	135.000000  	0.000000    	Open  	;
+ 126             	J350            	J352            	4.303917    	32.000000   	135.000000  	0.000000    	Open  	;
+ 127             	J354            	J356            	4.690128    	32.000000   	135.000000  	0.000000    	Open  	;
+ 128             	J264            	J358            	5.946066    	32.000000   	135.000000  	0.000000    	Open  	;
+ 129             	J360            	J362            	3.752892    	32.000000   	135.000000  	0.000000    	Open  	;
+ 13              	J48             	J50             	145.274776  	60.000000   	132.500000  	0.000000    	Open  	;
+ 130             	J364            	J366            	2.719007    	60.000000   	132.500000  	0.000000    	Open  	;
+ 131             	J366            	J368            	3.471743    	60.000000   	132.500000  	0.000000    	Open  	;
+ 132             	J368            	J370            	42.993843   	85.000000   	132.500000  	0.000000    	Open  	;
+ 133             	J372            	J374            	4.222843    	32.000000   	135.000000  	0.000000    	Open  	;
+ 134             	J364            	J372            	22.305246   	32.000000   	135.000000  	0.000000    	Open  	;
+ 135             	J376            	J364            	35.428376   	60.000000   	132.500000  	0.000000    	Open  	;
+ 136             	J376            	J182            	31.082981   	60.000000   	132.500000  	0.000000    	Open  	;
+ 137             	J378            	J182            	32.985004   	32.000000   	135.000000  	0.000000    	Open  	;
+ 138             	J380            	J382            	2.789193    	32.000000   	135.000000  	0.000000    	Open  	;
+ 139             	J384            	J378            	8.500006    	32.000000   	135.000000  	0.000000    	Open  	;
+ 14              	J48             	J52             	33.603847   	63.000000   	135.000000  	0.000000    	Open  	;
+ 140             	J386            	J310            	29.076664   	32.000000   	135.000000  	0.000000    	Open  	;
+ 141             	J388            	J386            	23.021703   	32.000000   	135.000000  	0.000000    	Open  	;
+ 142             	J390            	J392            	13.818574   	32.000000   	135.000000  	0.000000    	Open  	;
+ 143             	J394            	J390            	1.513209    	32.000000   	135.000000  	0.000000    	Open  	;
+ 144             	J148            	J394            	2.865589    	32.000000   	135.000000  	0.000000    	Open  	;
+ 145             	J384            	J148            	25.211446   	32.000000   	135.000000  	0.000000    	Open  	;
+ 146             	J396            	J398            	17.577250   	85.000000   	132.500000  	0.000000    	Open  	;
+ 147             	J400            	J396            	35.934721   	32.000000   	135.000000  	0.000000    	Open  	;
+ 148             	J402            	J400            	49.289027   	32.000000   	135.000000  	0.000000    	Open  	;
+ 149             	J402            	J262            	44.780211   	32.000000   	135.000000  	0.000000    	Open  	;
+ 15              	J54             	J56             	17.073518   	60.000000   	132.500000  	0.000000    	Open  	;
+ 150             	J404            	J72             	16.388859   	32.000000   	135.000000  	0.000000    	Open  	;
+ 151             	J406            	J84             	30.899928   	60.000000   	132.500000  	0.000000    	Open  	;
+ 152             	J408            	J406            	35.401024   	60.000000   	132.500000  	0.000000    	Open  	;
+ 153             	J410            	J408            	36.839427   	60.000000   	132.500000  	0.000000    	Open  	;
+ 154             	J412            	J410            	23.061693   	85.000000   	132.500000  	0.000000    	Open  	;
+ 155             	J414            	J416            	6.507111    	85.000000   	132.500000  	0.000000    	Open  	;
+ 156             	J94             	J414            	13.114942   	85.000000   	132.500000  	0.000000    	Open  	;
+ 157             	J338            	J114            	56.012529   	32.000000   	135.000000  	0.000000    	Open  	;
+ 158             	J342            	J418            	42.701898   	32.000000   	135.000000  	0.000000    	Open  	;
+ 159             	J420            	J418            	34.083207   	32.000000   	135.000000  	0.000000    	Open  	;
+ 16              	J58             	J54             	25.937403   	60.000000   	132.500000  	0.000000    	Open  	;
+ 160             	J422            	J420            	43.027728   	32.000000   	135.000000  	0.000000    	Open  	;
+ 161             	J424            	J422            	26.209298   	32.000000   	135.000000  	0.000000    	Open  	;
+ 162             	J426            	J424            	23.838809   	32.000000   	135.000000  	0.000000    	Open  	;
+ 163             	J428            	J426            	11.731841   	32.000000   	135.000000  	0.000000    	Open  	;
+ 164             	J430            	J428            	36.149169   	32.000000   	135.000000  	0.000000    	Open  	;
+ 165             	J432            	J430            	36.218530   	32.000000   	135.000000  	0.000000    	Open  	;
+ 166             	J434            	J432            	25.072513   	32.000000   	135.000000  	0.000000    	Open  	;
+ 167             	J436            	J434            	35.066304   	32.000000   	135.000000  	0.000000    	Open  	;
+ 168             	J438            	J436            	38.921535   	32.000000   	135.000000  	0.000000    	Open  	;
+ 169             	J216            	J210            	0.885438    	32.000000   	135.000000  	0.000000    	Open  	;
+ 17              	J60             	J58             	6.140125    	60.000000   	132.500000  	0.000000    	Open  	;
+ 170             	J326            	J322            	24.647550   	32.000000   	135.000000  	0.000000    	Open  	;
+ 171             	J440            	J442            	8.872114    	32.000000   	135.000000  	0.000000    	Open  	;
+ 172             	J444            	J330            	10.752009   	32.000000   	135.000000  	0.000000    	Open  	;
+ 173             	J446            	J444            	12.889143   	32.000000   	135.000000  	0.000000    	Open  	;
+ 174             	J334            	J446            	35.705669   	32.000000   	135.000000  	0.000000    	Open  	;
+ 175             	J448            	J450            	22.640632   	32.000000   	135.000000  	0.000000    	Open  	;
+ 176             	J452            	J454            	10.697112   	32.000000   	135.000000  	0.000000    	Open  	;
+ 177             	J452            	J448            	13.360528   	32.000000   	135.000000  	0.000000    	Open  	;
+ 178             	J456            	J458            	27.042502   	32.000000   	135.000000  	0.000000    	Open  	;
+ 179             	J456            	J132            	22.324742   	32.000000   	135.000000  	0.000000    	Open  	;
+ 18              	J62             	J60             	12.408904   	60.000000   	132.500000  	0.000000    	Open  	;
+ 180             	J460            	J456            	51.436461   	32.000000   	135.000000  	0.000000    	Open  	;
+ 181             	J98             	J360            	44.426276   	32.000000   	135.000000  	0.000000    	Open  	;
+ 182             	J96             	J206            	9.249649    	32.000000   	135.000000  	0.000000    	Open  	;
+ 183             	J462            	J464            	32.467762   	32.000000   	135.000000  	0.000000    	Open  	;
+ 184             	J466            	J176            	7.831449    	32.000000   	135.000000  	0.000000    	Open  	;
+ 185             	J466            	J468            	12.800941   	32.000000   	135.000000  	0.000000    	Open  	;
+ 186             	J468            	J462            	12.800941   	32.000000   	135.000000  	0.000000    	Open  	;
+ 187             	J314            	J466            	65.832658   	32.000000   	135.000000  	0.000000    	Open  	;
+ 188             	J470            	J472            	5.323392    	32.000000   	135.000000  	0.000000    	Open  	;
+ 189             	J474            	J470            	37.470934   	32.000000   	135.000000  	0.000000    	Open  	;
+ 19              	J64             	J40             	20.915872   	60.000000   	132.500000  	0.000000    	Open  	;
+ 190             	J476            	J478            	31.750691   	32.000000   	135.000000  	0.000000    	Open  	;
+ 191             	J480            	J482            	1.789078    	60.000000   	132.500000  	0.000000    	Open  	;
+ 192             	J474            	J480            	21.562504   	32.000000   	135.000000  	0.000000    	Open  	;
+ 193             	J482            	J484            	4.979046    	60.000000   	132.500000  	0.000000    	Open  	;
+ 194             	J486            	J480            	10.078492   	60.000000   	132.500000  	0.000000    	Open  	;
+ 195             	J154            	J484            	10.230078   	60.000000   	132.500000  	0.000000    	Open  	;
+ 196             	J72             	J484            	72.515759   	60.000000   	132.500000  	0.000000    	Open  	;
+ 197             	J488            	J486            	15.680000   	60.000000   	132.500000  	0.000000    	Open  	;
+ 198             	J490            	J488            	27.374806   	60.000000   	132.500000  	0.000000    	Open  	;
+ 199             	J492            	J490            	100.360676  	60.000000   	132.500000  	0.000000    	Open  	;
+ 2               	J16             	J18             	28.096040   	300.000000  	135.000000  	0.000000    	Open  	;
+ 20              	J66             	J68             	27.605460   	60.000000   	132.500000  	0.000000    	Open  	;
+ 200             	J494            	J318            	60.473555   	32.000000   	135.000000  	0.000000    	Open  	;
+ 201             	J68             	J494            	30.281100   	60.000000   	132.500000  	0.000000    	Open  	;
+ 202             	J496            	J90             	44.352882   	32.000000   	135.000000  	0.000000    	Open  	;
+ 203             	J498            	J496            	39.555516   	32.000000   	135.000000  	0.000000    	Open  	;
+ 204             	J500            	J498            	41.495095   	32.000000   	135.000000  	0.000000    	Open  	;
+ 205             	J502            	J100            	19.097984   	85.000000   	132.500000  	0.000000    	Open  	;
+ 206             	J502            	J504            	20.279295   	85.000000   	132.500000  	0.000000    	Open  	;
+ 207             	J398            	J438            	37.016456   	85.000000   	132.500000  	0.000000    	Open  	;
+ 208             	J370            	J398            	23.840354   	85.000000   	132.500000  	0.000000    	Open  	;
+ 209             	J506            	J508            	67.291526   	60.000000   	132.500000  	0.000000    	Open  	;
+ 21              	J70             	J72             	88.308274   	32.000000   	135.000000  	0.000000    	Open  	;
+ 210             	J508            	J274            	79.871656   	60.000000   	132.500000  	0.000000    	Open  	;
+ 211             	J510            	J512            	39.999983   	32.000000   	135.000000  	0.000000    	Open  	;
+ 212             	J278            	J514            	60.280892   	60.000000   	132.500000  	0.000000    	Open  	;
+ 213             	J516            	J278            	4.736887    	60.000000   	132.500000  	0.000000    	Open  	;
+ 214             	J518            	J520            	165.546508  	60.000000   	132.500000  	0.000000    	Open  	;
+ 215             	J522            	J518            	79.844079   	60.000000   	132.500000  	0.000000    	Open  	;
+ 216             	J524            	J526            	34.713799   	60.000000   	132.500000  	0.000000    	Open  	;
+ 217             	J528            	J524            	17.465122   	110.000000  	132.500000  	0.000000    	Open  	;
+ 218             	J530            	J532            	24.286080   	60.000000   	132.500000  	0.000000    	Open  	;
+ 219             	J534            	J536            	22.472436   	60.000000   	132.500000  	0.000000    	Open  	;
+ 22              	J74             	J70             	31.835428   	32.000000   	135.000000  	0.000000    	Open  	;
+ 220             	J506            	J538            	30.538845   	60.000000   	132.500000  	0.000000    	Open  	;
+ 221             	J540            	J542            	95.253547   	60.000000   	132.500000  	0.000000    	Open  	;
+ 222             	J542            	J544            	95.253547   	60.000000   	132.500000  	0.000000    	Open  	;
+ 223             	J544            	J546            	95.253547   	60.000000   	132.500000  	0.000000    	Open  	;
+ 224             	J546            	J548            	95.253547   	60.000000   	132.500000  	0.000000    	Open  	;
+ 225             	J548            	J530            	95.253547   	60.000000   	132.500000  	0.000000    	Open  	;
+ 226             	J550            	J552            	38.367991   	110.000000  	132.500000  	0.000000    	Open  	;
+ 227             	J286            	J550            	12.703708   	110.000000  	132.500000  	0.000000    	Open  	;
+ 228             	J296            	J286            	51.343624   	110.000000  	132.500000  	0.000000    	Open  	;
+ 229             	J224            	J296            	65.012687   	110.000000  	132.500000  	0.000000    	Open  	;
+ 23              	J76             	J74             	40.151376   	60.000000   	132.500000  	0.000000    	Open  	;
+ 230             	J554            	J224            	211.752555  	60.000000   	132.500000  	0.000000    	Open  	;
+ 231             	J556            	J558            	4.130000    	60.000000   	132.500000  	0.000000    	Open  	;
+ 232             	J174            	J556            	48.495495   	60.000000   	132.500000  	0.000000    	Open  	;
+ 233             	J560            	J174            	197.170100  	60.000000   	132.500000  	0.000000    	Open  	;
+ 234             	J296            	J560            	140.859597  	110.000000  	132.500000  	0.000000    	Open  	;
+ 235             	J550            	J562            	280.208574  	60.000000   	132.500000  	0.000000    	Open  	;
+ 236             	J564            	J550            	80.387453   	60.000000   	132.500000  	0.000000    	Open  	;
+ 237             	J564            	J536            	18.809239   	60.000000   	132.500000  	0.000000    	Open  	;
+ 238             	J294            	J536            	77.971415   	60.000000   	132.500000  	0.000000    	Open  	;
+ 239             	J566            	J568            	71.471774   	60.000000   	132.500000  	0.000000    	Open  	;
+ 24              	J76             	J66             	13.236106   	60.000000   	132.500000  	0.000000    	Open  	;
+ 240             	J532            	J506            	16.410411   	60.000000   	132.500000  	0.000000    	Open  	;
+ 241             	J540            	J570            	166.482100  	60.000000   	132.500000  	0.000000    	Open  	;
+ 242             	J572            	J102            	59.105419   	60.000000   	132.500000  	0.000000    	Open  	;
+ 243             	J574            	J516            	107.481677  	60.000000   	132.500000  	0.000000    	Open  	;
+ 244             	J576            	J514            	110.794578  	60.000000   	132.500000  	0.000000    	Open  	;
+ 245             	J508            	J568            	14.699721   	60.000000   	132.500000  	0.000000    	Open  	;
+ 246             	J578            	J580            	89.181213   	160.000000  	135.000000  	0.000000    	Open  	;
+ 247             	J580            	J582            	89.181213   	160.000000  	135.000000  	0.000000    	Open  	;
+ 248             	J582            	J542            	89.181213   	160.000000  	135.000000  	0.000000    	Open  	;
+ 249             	J542            	J552            	89.181213   	160.000000  	135.000000  	0.000000    	Open  	;
+ 25              	J78             	J80             	2.845699    	60.000000   	132.500000  	0.000000    	Open  	;
+ 250             	J584            	J520            	161.088022  	60.000000   	132.500000  	0.000000    	Open  	;
+ 251             	J156            	J584            	68.003478   	60.000000   	132.500000  	0.000000    	Open  	;
+ 252             	J526            	J586            	145.220349  	110.000000  	132.500000  	0.000000    	Open  	;
+ 253             	J588            	J526            	18.993170   	60.000000   	132.500000  	0.000000    	Open  	;
+ 254             	J590            	J588            	133.154083  	60.000000   	132.500000  	0.000000    	Open  	;
+ 255             	J592            	J590            	46.541935   	60.000000   	132.500000  	0.000000    	Open  	;
+ 256             	J592            	J594            	13.286222   	60.000000   	132.500000  	0.000000    	Open  	;
+ 257             	J596            	J592            	224.531975  	60.000000   	132.500000  	0.000000    	Open  	;
+ 258             	J126            	J598            	59.497753   	160.000000  	135.000000  	0.000000    	Open  	;
+ 259             	J598            	J600            	59.497753   	160.000000  	135.000000  	0.000000    	Open  	;
+ 26              	J78             	J82             	13.082786   	60.000000   	132.500000  	0.000000    	Open  	;
+ 260             	J600            	J602            	59.497753   	160.000000  	135.000000  	0.000000    	Open  	;
+ 261             	J602            	J156            	59.497753   	160.000000  	135.000000  	0.000000    	Open  	;
+ 262             	J586            	J604            	4.623193    	60.000000   	132.500000  	0.000000    	Open  	;
+ 263             	J606            	J586            	245.296404  	110.000000  	132.500000  	0.000000    	Open  	;
+ 264             	J608            	J610            	23.310150   	60.000000   	132.500000  	0.000000    	Open  	;
+ 265             	J612            	J614            	2.758623    	60.000000   	132.500000  	0.000000    	Open  	;
+ 266             	J616            	J618            	27.397275   	60.000000   	132.500000  	0.000000    	Open  	;
+ 267             	J620            	J618            	11.758231   	60.000000   	132.500000  	0.000000    	Open  	;
+ 268             	J612            	J620            	26.037803   	60.000000   	132.500000  	0.000000    	Open  	;
+ 269             	J622            	J612            	205.599477  	60.000000   	132.500000  	0.000000    	Open  	;
+ 27              	J84             	J78             	19.056907   	60.000000   	132.500000  	0.000000    	Open  	;
+ 270             	J624            	J626            	475.328875  	60.000000   	132.500000  	0.000000    	Open  	;
+ 271             	J616            	J628            	208.184344  	60.000000   	132.500000  	0.000000    	Open  	;
+ 272             	J628            	J630            	208.184344  	60.000000   	132.500000  	0.000000    	Open  	;
+ 273             	J630            	J632            	208.184344  	60.000000   	132.500000  	0.000000    	Open  	;
+ 274             	J632            	J634            	208.184344  	60.000000   	132.500000  	0.000000    	Open  	;
+ 275             	J634            	J636            	208.184344  	60.000000   	132.500000  	0.000000    	Open  	;
+ 276             	J636            	J638            	208.184344  	60.000000   	132.500000  	0.000000    	Open  	;
+ 277             	J638            	J640            	208.184344  	60.000000   	132.500000  	0.000000    	Open  	;
+ 278             	J640            	J642            	208.184344  	60.000000   	132.500000  	0.000000    	Open  	;
+ 279             	J642            	J644            	208.184344  	60.000000   	132.500000  	0.000000    	Open  	;
+ 28              	J86             	J88             	14.160950   	32.000000   	135.000000  	0.000000    	Open  	;
+ 280             	J644            	J624            	208.184344  	60.000000   	132.500000  	0.000000    	Open  	;
+ 281             	J646            	J648            	55.294481   	60.000000   	132.500000  	0.000000    	Open  	;
+ 282             	J650            	J646            	27.700415   	60.000000   	132.500000  	0.000000    	Open  	;
+ 283             	J652            	J654            	148.106609  	60.000000   	132.500000  	0.000000    	Open  	;
+ 284             	J650            	J652            	70.364796   	60.000000   	132.500000  	0.000000    	Open  	;
+ 285             	J656            	J650            	167.989523  	60.000000   	132.500000  	0.000000    	Open  	;
+ 286             	J658            	J660            	15.202763   	60.000000   	132.500000  	0.000000    	Open  	;
+ 287             	J662            	J664            	114.987196  	32.000000   	135.000000  	0.000000    	Open  	;
+ 288             	J664            	J666            	114.987196  	32.000000   	135.000000  	0.000000    	Open  	;
+ 289             	J666            	J668            	114.987196  	32.000000   	135.000000  	0.000000    	Open  	;
+ 29              	J90             	J86             	36.496575   	32.000000   	135.000000  	0.000000    	Open  	;
+ 290             	J668            	J670            	114.987196  	32.000000   	135.000000  	0.000000    	Open  	;
+ 291             	J660            	J672            	2.195313    	60.000000   	132.500000  	0.000000    	Open  	;
+ 292             	J660            	J662            	2.096115    	60.000000   	132.500000  	0.000000    	Open  	;
+ 293             	J674            	J676            	71.168353   	60.000000   	132.500000  	0.000000    	Open  	;
+ 294             	J678            	J680            	85.700095   	60.000000   	132.500000  	0.000000    	Open  	;
+ 295             	J682            	J658            	11.503434   	60.000000   	132.500000  	0.000000    	Open  	;
+ 296             	J684            	J682            	7.476376    	60.000000   	132.500000  	0.000000    	Open  	;
+ 297             	J658            	J680            	4.009638    	60.000000   	132.500000  	0.000000    	Open  	;
+ 298             	J686            	J510            	10.000100   	32.000000   	135.000000  	0.000000    	Open  	;
+ 299             	J688            	J686            	28.699997   	32.000000   	135.000000  	0.000000    	Open  	;
+ 3               	J20             	J22             	108.989866  	60.000000   	132.500000  	0.000000    	Open  	;
+ 30              	J82             	J90             	51.026770   	32.000000   	135.000000  	0.000000    	Open  	;
+ 300             	J690            	J688            	14.800042   	32.000000   	135.000000  	0.000000    	Open  	;
+ 301             	J692            	J694            	58.080542   	32.000000   	135.000000  	0.000000    	Open  	;
+ 302             	J694            	J696            	58.080542   	32.000000   	135.000000  	0.000000    	Open  	;
+ 303             	J696            	J698            	58.080542   	32.000000   	135.000000  	0.000000    	Open  	;
+ 304             	J698            	J690            	58.080542   	32.000000   	135.000000  	0.000000    	Open  	;
+ 305             	J692            	J700            	1.499912    	32.000000   	135.000000  	0.000000    	Open  	;
+ 306             	J692            	J702            	119.952334  	60.000000   	132.500000  	0.000000    	Open  	;
+ 307             	J704            	J706            	1.000013    	32.000000   	135.000000  	0.000000    	Open  	;
+ 308             	J708            	J128            	148.690191  	60.000000   	132.500000  	0.000000    	Open  	;
+ 309             	J128            	J704            	148.690191  	60.000000   	132.500000  	0.000000    	Open  	;
+ 31              	J92             	J94             	14.922098   	85.000000   	132.500000  	0.000000    	Open  	;
+ 310             	J528            	J710            	38.771228   	110.000000  	132.500000  	0.000000    	Open  	;
+ 311             	J712            	J656            	427.161166  	60.000000   	132.500000  	0.000000    	Open  	;
+ 312             	J714            	J716            	63.918310   	85.000000   	132.500000  	0.000000    	Open  	;
+ 313             	J714            	J718            	85.735261   	85.000000   	132.500000  	0.000000    	Open  	;
+ 314             	J720            	J722            	70.202238   	85.000000   	132.500000  	0.000000    	Open  	;
+ 315             	J722            	J714            	62.999092   	85.000000   	132.500000  	0.000000    	Open  	;
+ 316             	J724            	J720            	59.401885   	85.000000   	132.500000  	0.000000    	Open  	;
+ 317             	J726            	J724            	66.412408   	85.000000   	132.500000  	0.000000    	Open  	;
+ 318             	J728            	J726            	69.897468   	60.000000   	132.500000  	0.000000    	Open  	;
+ 319             	J730            	J732            	70.184867   	60.000000   	132.500000  	0.000000    	Open  	;
+ 32              	J96             	J98             	45.942121   	60.000000   	132.500000  	0.000000    	Open  	;
+ 320             	J734            	J730            	63.509407   	60.000000   	132.500000  	0.000000    	Open  	;
+ 321             	J720            	J730            	82.053759   	60.000000   	132.500000  	0.000000    	Open  	;
+ 322             	J736            	J734            	66.836772   	60.000000   	132.500000  	0.000000    	Open  	;
+ 323             	J738            	J736            	71.964378   	60.000000   	132.500000  	0.000000    	Open  	;
+ 324             	J728            	J738            	76.745092   	60.000000   	132.500000  	0.000000    	Open  	;
+ 325             	J726            	J736            	78.802431   	60.000000   	132.500000  	0.000000    	Open  	;
+ 326             	J734            	J724            	80.416646   	60.000000   	132.500000  	0.000000    	Open  	;
+ 327             	J732            	J718            	60.739057   	60.000000   	132.500000  	0.000000    	Open  	;
+ 328             	J722            	J732            	84.143119   	60.000000   	132.500000  	0.000000    	Open  	;
+ 329             	J740            	J718            	86.911769   	60.000000   	132.500000  	0.000000    	Open  	;
+ 33              	J100            	J94             	17.386782   	85.000000   	132.500000  	0.000000    	Open  	;
+ 330             	J742            	J740            	68.342369   	160.000000  	135.000000  	0.000000    	Open  	;
+ 331             	J744            	J746            	122.585106  	160.000000  	135.000000  	0.000000    	Open  	;
+ 332             	J678            	J748            	57.234404   	60.000000   	132.500000  	0.000000    	Open  	;
+ 333             	J750            	J684            	256.349705  	60.000000   	132.500000  	0.000000    	Open  	;
+ 334             	J750            	J752            	11.192341   	60.000000   	132.500000  	0.000000    	Open  	;
+ 335             	J754            	J750            	212.824290  	60.000000   	132.500000  	0.000000    	Open  	;
+ 336             	J756            	J758            	159.453262  	60.000000   	132.500000  	0.000000    	Open  	;
+ 337             	J756            	J750            	60.067371   	60.000000   	132.500000  	0.000000    	Open  	;
+ 338             	J748            	J756            	140.118489  	60.000000   	132.500000  	0.000000    	Open  	;
+ 339             	J260            	J748            	13.911165   	60.000000   	132.500000  	0.000000    	Open  	;
+ 34              	J102            	J104            	91.176027   	60.000000   	132.500000  	0.000000    	Open  	;
+ 340             	J760            	J626            	91.367935   	60.000000   	132.500000  	0.000000    	Open  	;
+ 341             	J256            	J760            	11.994074   	60.000000   	132.500000  	0.000000    	Open  	;
+ 342             	J710            	J256            	101.026748  	60.000000   	132.500000  	0.000000    	Open  	;
+ 343             	J626            	J710            	40.337793   	110.000000  	132.500000  	0.000000    	Open  	;
+ 344             	J758            	J626            	67.467816   	110.000000  	132.500000  	0.000000    	Open  	;
+ 345             	J762            	J758            	24.530850   	110.000000  	132.500000  	0.000000    	Open  	;
+ 346             	J712            	J762            	28.409704   	110.000000  	132.500000  	0.000000    	Open  	;
+ 347             	J754            	J712            	62.429896   	110.000000  	132.500000  	0.000000    	Open  	;
+ 348             	J764            	J754            	231.119402  	160.000000  	135.000000  	0.000000    	Open  	;
+ 349             	J766            	J708            	360.028947  	60.000000   	132.500000  	0.000000    	Open  	;
+ 35              	J106            	J108            	4.952272    	32.000000   	135.000000  	0.000000    	Open  	;
+ 350             	J768            	J770            	276.680864  	60.000000   	132.500000  	0.000000    	Open  	;
+ 351             	J772            	J768            	69.780729   	60.000000   	132.500000  	0.000000    	Open  	;
+ 352             	J774            	J776            	94.885069   	60.000000   	132.500000  	0.000000    	Open  	;
+ 353             	J774            	J778            	73.812430   	60.000000   	132.500000  	0.000000    	Open  	;
+ 354             	J774            	J780            	123.565730  	60.000000   	132.500000  	0.000000    	Open  	;
+ 355             	J744            	J774            	79.784074   	60.000000   	132.500000  	0.000000    	Open  	;
+ 356             	J782            	J744            	67.881389   	60.000000   	132.500000  	0.000000    	Open  	;
+ 357             	J746            	J784            	67.707994   	60.000000   	132.500000  	0.000000    	Open  	;
+ 358             	J780            	J746            	80.490885   	60.000000   	132.500000  	0.000000    	Open  	;
+ 359             	J786            	J780            	72.236914   	60.000000   	132.500000  	0.000000    	Open  	;
+ 36              	J110            	J112            	5.370840    	32.000000   	135.000000  	0.000000    	Open  	;
+ 360             	J788            	J780            	114.704050  	60.000000   	132.500000  	0.000000    	Open  	;
+ 361             	J790            	J788            	72.830584   	60.000000   	132.500000  	0.000000    	Open  	;
+ 362             	J770            	J790            	68.748265   	60.000000   	132.500000  	0.000000    	Open  	;
+ 363             	J676            	J770            	274.991969  	60.000000   	132.500000  	0.000000    	Open  	;
+ 364             	J792            	J674            	158.262467  	60.000000   	132.500000  	0.000000    	Open  	;
+ 365             	J794            	J674            	73.697894   	60.000000   	132.500000  	0.000000    	Open  	;
+ 366             	J796            	J24             	157.075456  	60.000000   	132.500000  	0.000000    	Open  	;
+ 367             	J794            	J796            	79.800611   	60.000000   	132.500000  	0.000000    	Open  	;
+ 368             	J798            	J794            	157.049240  	60.000000   	132.500000  	0.000000    	Open  	;
+ 369             	J788            	J798            	112.078112  	60.000000   	132.500000  	0.000000    	Open  	;
+ 37              	J114            	J116            	46.389407   	32.000000   	135.000000  	0.000000    	Open  	;
+ 370             	J800            	J788            	80.804342   	60.000000   	132.500000  	0.000000    	Open  	;
+ 371             	J800            	J746            	115.066941  	110.000000  	132.500000  	0.000000    	Open  	;
+ 372             	J802            	J800            	19.442328   	110.000000  	132.500000  	0.000000    	Open  	;
+ 373             	J24             	J802            	91.404132   	110.000000  	132.500000  	0.000000    	Open  	;
+ 374             	J798            	J24             	79.714229   	110.000000  	132.500000  	0.000000    	Open  	;
+ 375             	J792            	J798            	73.857719   	110.000000  	132.500000  	0.000000    	Open  	;
+ 376             	J804            	J792            	12.038355   	160.000000  	135.000000  	0.000000    	Open  	;
+ 377             	J790            	J804            	99.635680   	160.000000  	135.000000  	0.000000    	Open  	;
+ 378             	J786            	J790            	115.256026  	160.000000  	135.000000  	0.000000    	Open  	;
+ 379             	J806            	J786            	6.906461    	160.000000  	135.000000  	0.000000    	Open  	;
+ 38              	J118            	J120            	64.848629   	250.000000  	135.000000  	0.000000    	Open  	;
+ 380             	J778            	J806            	114.940430  	160.000000  	135.000000  	0.000000    	Open  	;
+ 381             	J772            	J778            	42.024315   	160.000000  	135.000000  	0.000000    	Open  	;
+ 382             	J808            	J772            	35.494795   	160.000000  	135.000000  	0.000000    	Open  	;
+ 383             	J776            	J810            	65.861841   	160.000000  	135.000000  	0.000000    	Open  	;
+ 384             	J810            	J812            	65.861841   	160.000000  	135.000000  	0.000000    	Open  	;
+ 385             	J814            	J744            	90.303477   	160.000000  	135.000000  	0.000000    	Open  	;
+ 386             	J816            	J814            	7.103717    	160.000000  	135.000000  	0.000000    	Open  	;
+ 387             	J818            	J816            	67.857873   	160.000000  	135.000000  	0.000000    	Open  	;
+ 388             	J742            	J816            	9.752225    	160.000000  	135.000000  	0.000000    	Open  	;
+ 389             	J820            	J818            	64.776146   	160.000000  	135.000000  	0.000000    	Open  	;
+ 39              	J120            	J122            	64.848629   	250.000000  	135.000000  	0.000000    	Open  	;
+ 390             	J716            	J820            	31.462748   	160.000000  	135.000000  	0.000000    	Open  	;
+ 391             	J282            	J716            	5.284174    	160.000000  	135.000000  	0.000000    	Open  	;
+ 392             	J782            	J818            	96.357952   	60.000000   	132.500000  	0.000000    	Open  	;
+ 393             	J782            	J784            	124.871385  	60.000000   	132.500000  	0.000000    	Open  	;
+ 394             	J822            	J784            	65.107251   	60.000000   	132.500000  	0.000000    	Open  	;
+ 395             	J824            	J782            	64.861965   	60.000000   	132.500000  	0.000000    	Open  	;
+ 396             	J824            	J822            	124.475915  	60.000000   	132.500000  	0.000000    	Open  	;
+ 397             	J824            	J820            	96.666645   	60.000000   	132.500000  	0.000000    	Open  	;
+ 398             	J826            	J824            	36.277009   	60.000000   	132.500000  	0.000000    	Open  	;
+ 399             	J828            	J282            	86.666469   	110.000000  	132.500000  	0.000000    	Open  	;
+ 4               	J24             	J26             	74.233581   	110.000000  	132.500000  	0.000000    	Open  	;
+ 40              	J122            	J124            	64.848629   	250.000000  	135.000000  	0.000000    	Open  	;
+ 400             	J830            	J832            	6.582013    	110.000000  	132.500000  	0.000000    	Open  	;
+ 401             	J826            	J828            	8.387997    	110.000000  	132.500000  	0.000000    	Open  	;
+ 402             	J830            	J826            	124.117255  	110.000000  	132.500000  	0.000000    	Open  	;
+ 403             	J38             	J830            	5.233593    	110.000000  	132.500000  	0.000000    	Open  	;
+ 404             	J38             	J822            	30.257325   	60.000000   	132.500000  	0.000000    	Open  	;
+ 405             	J28             	J796            	79.941065   	60.000000   	132.500000  	0.000000    	Open  	;
+ 406             	J834            	J64             	20.038213   	60.000000   	132.500000  	0.000000    	Open  	;
+ 407             	J836            	J44             	14.029530   	60.000000   	132.500000  	0.000000    	Open  	;
+ 408             	J838            	J836            	14.223505   	60.000000   	132.500000  	0.000000    	Open  	;
+ 409             	J840            	J52             	6.496230    	63.000000   	135.000000  	0.000000    	Open  	;
+ 41              	J124            	J126            	64.848629   	250.000000  	135.000000  	0.000000    	Open  	;
+ 410             	J842            	J844            	25.141275   	200.000000  	135.000000  	0.000000    	Open  	;
+ 411             	J846            	J848            	19.266489   	200.000000  	135.000000  	0.000000    	Open  	;
+ 413             	J854            	J856            	11.013127   	300.000000  	135.000000  	0.000000    	Open  	;
+ 415             	J862            	J864            	7.896204    	300.000000  	135.000000  	0.000000    	Open  	;
+ 416             	J864            	J866            	7.896204    	300.000000  	135.000000  	0.000000    	Open  	;
+ 417             	J18             	J868            	92.330746   	300.000000  	135.000000  	0.000000    	Open  	;
+ 418             	J868            	J870            	92.330746   	300.000000  	135.000000  	0.000000    	Open  	;
+ 419             	J872            	J14             	149.631652  	300.000000  	135.000000  	0.000000    	Open  	;
+ 42              	J128            	J130            	26.603096   	200.000000  	135.000000  	0.000000    	Open  	;
+ 420             	J874            	J876            	19.126381   	200.000000  	135.000000  	0.000000    	Open  	;
+ 421             	J878            	J880            	3.601684    	200.000000  	125.000000  	0.000000    	Open  	;
+ 423             	J886            	J888            	22.913552   	200.000000  	135.000000  	0.000000    	Open  	;
+ 424             	J762            	J890            	4.747147    	110.000000  	132.500000  	0.000000    	Open  	;
+ 425             	J284            	J892            	4.420136    	160.000000  	135.000000  	0.000000    	Open  	;
+ 426             	J572            	J570            	41.722073   	60.000000   	135.000000  	0.000000    	Open  	;
+ 427             	J80             	J894            	3.733644    	60.000000   	132.500000  	0.000000    	Open  	;
+ 428             	J894            	J76             	18.912021   	60.000000   	132.500000  	0.000000    	Open  	;
+ 429             	J896            	J898            	13.885904   	200.000000  	140.000000  	0.000000    	Open  	;
+ 43              	J132            	J134            	10.144087   	32.000000   	135.000000  	0.000000    	Open  	;
+ 430             	J900            	J902            	2.624866    	200.000000  	140.000000  	0.000000    	Open  	;
+ 431             	J904            	J906            	4.723686    	200.000000  	140.000000  	0.000000    	Open  	;
+ 432             	J908            	J904            	23.223215   	160.000000  	140.000000  	0.000000    	Open  	;
+ 433             	J902            	J904            	5.405852    	200.000000  	140.000000  	0.000000    	Open  	;
+ 434             	J610            	J50             	47.617254   	60.000000   	132.500000  	0.000000    	Open  	;
+ 435             	J556            	J554            	128.288026  	60.000000   	132.500000  	0.000000    	Open  	;
+ 436             	J416            	J412            	9.387833    	85.000000   	132.500000  	0.000000    	Open  	;
+ 437             	J92             	J204            	16.165301   	85.000000   	132.500000  	0.000000    	Open  	;
+ 438             	J152            	J910            	48.735293   	60.000000   	132.500000  	0.000000    	Open  	;
+ 439             	J494            	J492            	1.776851    	32.000000   	135.000000  	0.000000    	Open  	;
+ 44              	J36             	J136            	137.651886  	60.000000   	132.500000  	0.000000    	Open  	;
+ 440             	J392            	J388            	9.833072    	32.000000   	135.000000  	0.000000    	Open  	;
+ 441             	J476            	J470            	6.880065    	32.000000   	135.000000  	0.000000    	Open  	;
+ 442             	J14             	J652            	0.578889    	300.000000  	135.000000  	0.000000    	Open  	;
+ 443             	J742            	J776            	72.078727   	160.000000  	135.000000  	0.000000    	Open  	;
+ 444             	J136            	J912            	2.763528    	60.000000   	132.500000  	0.000000    	Open  	;
+ 445             	J908            	J764            	171.077904  	160.000000  	135.000000  	0.000000    	Open  	;
+ 446             	J262            	J186            	32.119180   	32.000000   	135.000000  	0.000000    	Open  	;
+ 447             	J458            	J914            	15.427555   	32.000000   	135.000000  	0.000000    	Open  	;
+ 448             	J916            	J460            	47.837747   	32.000000   	135.000000  	0.000000    	Open  	;
+ 449             	J428            	J354            	11.864556   	32.000000   	135.000000  	0.000000    	Open  	;
+ 450             	J396            	J918            	31.015586   	85.000000   	132.500000  	0.000000    	Open  	;
+ 451             	J920            	J840            	7.872497    	63.000000   	135.000000  	0.000000    	Open  	;
+ 452             	J838            	J178            	19.658305   	60.000000   	132.500000  	0.000000    	Open  	;
+ 453             	J184            	J838            	48.518508   	60.000000   	132.500000  	0.000000    	Open  	;
+ 454             	J370            	J920            	24.267987   	85.000000   	132.500000  	0.000000    	Open  	;
+ 455             	J922            	J380            	19.800002   	32.000000   	135.000000  	0.000000    	Open  	;
+ 456             	J378            	J306            	7.492483    	32.000000   	135.000000  	0.000000    	Open  	;
+ 457             	J504            	J924            	25.503225   	85.000000   	132.500000  	0.000000    	Open  	;
+ 458             	J346            	J350            	22.928578   	32.000000   	135.000000  	0.000000    	Open  	;
+ 459             	J198            	J452            	12.930994   	32.000000   	135.000000  	0.000000    	Open  	;
+ 460             	J512            	J16             	58.426207   	300.000000  	135.000000  	0.000000    	Open  	;
+ 461             	J538            	J926            	3.962637    	60.000000   	132.500000  	0.000000    	Open  	;
+ 462             	J926            	J928            	3.962637    	60.000000   	132.500000  	0.000000    	Open  	;
+ 463             	J928            	J534            	3.962637    	60.000000   	132.500000  	0.000000    	Open  	;
+ 464             	J524            	J930            	128.478719  	85.000000   	115.000000  	0.000000    	Open  	;
+ 465             	J932            	J934            	100.853222  	32.000000   	135.000000  	0.000000    	Open  	;
+ 466             	J932            	J936            	217.481068  	32.000000   	135.000000  	0.000000    	Open  	;
+ 467             	J936            	J290            	217.481068  	32.000000   	135.000000  	0.000000    	Open  	;
+ 468             	J248            	J938            	20.492223   	60.000000   	132.500000  	0.000000    	Open  	;
+ 469             	J938            	J940            	20.492223   	60.000000   	132.500000  	0.000000    	Open  	;
+ 470             	J940            	J942            	20.492223   	60.000000   	132.500000  	0.000000    	Open  	;
+ 471             	J942            	J944            	20.492223   	60.000000   	132.500000  	0.000000    	Open  	;
+ 472             	J944            	J946            	20.492223   	60.000000   	132.500000  	0.000000    	Open  	;
+ 473             	J946            	J948            	20.492223   	60.000000   	132.500000  	0.000000    	Open  	;
+ 474             	J948            	J950            	20.492223   	60.000000   	132.500000  	0.000000    	Open  	;
+ 475             	J950            	J952            	20.492223   	60.000000   	132.500000  	0.000000    	Open  	;
+ 476             	J952            	J290            	20.492223   	60.000000   	132.500000  	0.000000    	Open  	;
+ 477             	J924            	J404            	39.346989   	85.000000   	132.500000  	0.000000    	Open  	;
+ 478             	J954            	J436            	29.802820   	32.000000   	135.000000  	0.000000    	Open  	;
+ 479             	J208            	J954            	32.771662   	32.000000   	135.000000  	0.000000    	Open  	;
+ 48              	J32             	J28             	89.306321   	60.000000   	132.500000  	0.000000    	Open  	;
+ 480             	J500            	J92             	27.091897   	32.000000   	135.000000  	0.000000    	Open  	;
+ 481             	J956            	J100            	47.656526   	85.000000   	132.500000  	0.000000    	Open  	;
+ 482             	J918            	J956            	7.274136    	85.000000   	132.500000  	0.000000    	Open  	;
+ 483             	J958            	J366            	12.780708   	60.000000   	132.500000  	0.000000    	Open  	;
+ 484             	J958            	J522            	14.336085   	60.000000   	132.500000  	0.000000    	Open  	;
+ 485             	J360            	J432            	31.612112   	32.000000   	135.000000  	0.000000    	Open  	;
+ 486             	J460            	J264            	11.161649   	32.000000   	135.000000  	0.000000    	Open  	;
+ 487             	J354            	J916            	4.802853    	32.000000   	135.000000  	0.000000    	Open  	;
+ 488             	J350            	J422            	5.288109    	32.000000   	135.000000  	0.000000    	Open  	;
+ 489             	J914            	J346            	0.864002    	32.000000   	135.000000  	0.000000    	Open  	;
+ 49              	J146            	J148            	22.318463   	32.000000   	135.000000  	0.000000    	Open  	;
+ 490             	J418            	J338            	6.561288    	32.000000   	135.000000  	0.000000    	Open  	;
+ 491             	J454            	J342            	26.071028   	32.000000   	135.000000  	0.000000    	Open  	;
+ 492             	J450            	J334            	0.720902    	32.000000   	135.000000  	0.000000    	Open  	;
+ 493             	J330            	J440            	1.828004    	32.000000   	135.000000  	0.000000    	Open  	;
+ 494             	J442            	J326            	7.712341    	32.000000   	135.000000  	0.000000    	Open  	;
+ 495             	J322            	J214            	1.750457    	32.000000   	135.000000  	0.000000    	Open  	;
+ 496             	J172            	J106            	21.863341   	32.000000   	135.000000  	0.000000    	Open  	;
+ 497             	J110            	J222            	5.766325    	32.000000   	135.000000  	0.000000    	Open  	;
+ 498             	J318            	J960            	10.328407   	32.000000   	135.000000  	0.000000    	Open  	;
+ 499             	J478            	J314            	62.628571   	32.000000   	135.000000  	0.000000    	Open  	;
+ 5               	J28             	J26             	154.804756  	60.000000   	132.500000  	0.000000    	Open  	;
+ 50              	J150            	J152            	39.889690   	60.000000   	132.500000  	0.000000    	Open  	;
+ 500             	J310            	J962            	6.596395    	32.000000   	135.000000  	0.000000    	Open  	;
+ 501             	J180            	J300            	8.770462    	60.000000   	132.500000  	0.000000    	Open  	;
+ 502             	J300            	J104            	4.220190    	60.000000   	132.500000  	0.000000    	Open  	;
+ 503             	J44             	J834            	6.169386    	60.000000   	132.500000  	0.000000    	Open  	;
+ 504             	J40             	J62             	5.749661    	60.000000   	132.500000  	0.000000    	Open  	;
+ 505             	J306            	J922            	6.088949    	32.000000   	135.000000  	0.000000    	Open  	;
+ 508             	J970            	J972            	6.510578    	100.000000  	125.000000  	0.000000    	Open  	;
+ 509             	J974            	J976            	6.129483    	100.000000  	125.000000  	0.000000    	Open  	;
+ 51              	J154            	J150            	38.939693   	60.000000   	132.500000  	0.000000    	Open  	;
+ 510             	J978            	J980            	4.857820    	200.000000  	135.000000  	0.000000    	Open  	;
+ 513             	J988            	J766            	5.591024    	60.000000   	132.500000  	0.000000    	Open  	;
+ 514             	J990            	J978            	13.133795   	200.000000  	135.000000  	0.000000    	Open  	;
+ 515             	J764            	J992            	1.024553    	60.000000   	132.500000  	0.000000    	Open  	;
+ 516             	J898            	J994            	0.623212    	200.000000  	135.000000  	0.000000    	Open  	;
+ 517             	J814            	J996            	1.399073    	160.000000  	135.000000  	0.000000    	Open  	;
+ 518             	J828            	J998            	5.663376    	110.000000  	132.500000  	0.000000    	Open  	;
+ 519             	J34             	J1000           	1.535625    	110.000000  	132.500000  	0.000000    	Open  	;
+ 52              	J156            	J158            	136.352344  	160.000000  	135.000000  	0.000000    	Open  	;
+ 520             	J802            	J1002           	3.172870    	110.000000  	132.500000  	0.000000    	Open  	;
+ 521             	J804            	J1004           	1.902491    	160.000000  	135.000000  	0.000000    	Open  	;
+ 522             	J806            	J1006           	1.604196    	160.000000  	135.000000  	0.000000    	Open  	;
+ 523             	J1008           	J1010           	53.229937   	150.000000  	135.000000  	0.000000    	Open  	;
+ 524             	J614            	J1012           	21.611974   	60.000000   	132.500000  	0.000000    	Open  	;
+ 525             	J1010           	J608            	0.806339    	60.000000   	132.500000  	0.000000    	Open  	;
+ 526             	J1012           	J1010           	0.793661    	60.000000   	132.500000  	0.000000    	Open  	;
+ 527             	J1014           	J562            	63.375146   	60.000000   	132.500000  	0.000000    	Open  	;
+ 528             	J1014           	J1016           	21.344501   	60.000000   	132.500000  	0.000000    	Open  	;
+ 529             	J1016           	J1018           	18.301666   	60.000000   	132.500000  	0.000000    	Open  	;
+ 53              	J158            	J160            	136.352344  	160.000000  	135.000000  	0.000000    	Open  	;
+ 530             	J1018           	J1020           	20.031137   	60.000000   	132.500000  	0.000000    	Open  	;
+ 531             	J1020           	J1022           	22.097602   	60.000000   	132.500000  	0.000000    	Open  	;
+ 532             	J1022           	J1024           	21.589818   	60.000000   	132.500000  	0.000000    	Open  	;
+ 533             	J1024           	J1026           	3.535292    	60.000000   	132.500000  	0.000000    	Open  	;
+ 534             	J1026           	J1028           	4.447808    	60.000000   	132.500000  	0.000000    	Open  	;
+ 535             	J1028           	J962            	36.504247   	60.000000   	132.500000  	0.000000    	Open  	;
+ 536             	J962            	J910            	36.504247   	60.000000   	132.500000  	0.000000    	Open  	;
+ 537             	J1028           	J464            	22.514786   	32.000000   	135.000000  	0.000000    	Open  	;
+ 538             	J1030           	J1032           	13.556210   	300.000000  	135.000000  	0.000000    	Open  	;
+ 539             	J1034           	J808            	18.777821   	200.000000  	135.000000  	0.000000    	Open  	;
+ 54              	J160            	J162            	136.352344  	160.000000  	135.000000  	0.000000    	Open  	;
+ 540             	J812            	J1034           	6.051583    	160.000000  	135.000000  	0.000000    	Open  	;
+ 541             	J880            	J1036           	0.333098    	200.000000  	125.000000  	0.000000    	Open  	;
+ 543             	J994            	J1038           	0.569760    	200.000000  	135.000000  	0.000000    	Open  	;
+ 544             	J118            	J10             	0.489931    	250.000000  	135.000000  	0.000000    	Open  	;
+ 547             	J1040           	J1034           	20.219464   	200.000000  	135.000000  	0.000000    	Open  	;
+ 548             	J1042           	J1040           	23.137394   	200.000000  	135.000000  	0.000000    	Open  	;
+ 549             	J876            	J1042           	27.476450   	200.000000  	135.000000  	0.000000    	Open  	;
+ 55              	J162            	J164            	136.352344  	160.000000  	135.000000  	0.000000    	Open  	;
+ 550             	J878            	J874            	14.373966   	200.000000  	135.000000  	0.000000    	Open  	;
+ 551             	J1044           	J878            	14.610027   	200.000000  	135.000000  	0.000000    	Open  	;
+ 552             	J1046           	J1044           	19.409198   	200.000000  	135.000000  	0.000000    	Open  	;
+ 553             	J1048           	J1046           	23.602620   	200.000000  	135.000000  	0.000000    	Open  	;
+ 554             	J1050           	J1048           	19.184814   	200.000000  	135.000000  	0.000000    	Open  	;
+ 555             	J1052           	J1050           	19.372264   	200.000000  	135.000000  	0.000000    	Open  	;
+ 556             	J1054           	J1052           	18.229797   	200.000000  	135.000000  	0.000000    	Open  	;
+ 557             	J1056           	J1054           	22.265124   	200.000000  	135.000000  	0.000000    	Open  	;
+ 558             	J1058           	J1056           	20.288170   	200.000000  	135.000000  	0.000000    	Open  	;
+ 559             	J884            	J1058           	18.518147   	200.000000  	135.000000  	0.000000    	Open  	;
+ 56              	J164            	J166            	136.352344  	160.000000  	135.000000  	0.000000    	Open  	;
+ 560             	J972            	J980            	2.068130    	100.000000  	125.000000  	0.000000    	Open  	;
+ 561             	J986            	J974            	2.290800    	100.000000  	125.000000  	0.000000    	Open  	;
+ 562             	J702            	J990            	9.495163    	200.000000  	135.000000  	0.000000    	Open  	;
+ 563             	J702            	J1060           	6.698012    	200.000000  	135.000000  	0.000000    	Open  	;
+ 564             	J1060           	J886            	21.517680   	200.000000  	135.000000  	0.000000    	Open  	;
+ 565             	J888            	J128            	21.953949   	200.000000  	135.000000  	0.000000    	Open  	;
+ 566             	J130            	J896            	16.954691   	200.000000  	135.000000  	0.000000    	Open  	;
+ 567             	J898            	J900            	3.756176    	200.000000  	140.000000  	0.000000    	Open  	;
+ 568             	J906            	J846            	20.614600   	200.000000  	135.000000  	0.000000    	Open  	;
+ 569             	J848            	J656            	19.201034   	200.000000  	135.000000  	0.000000    	Open  	;
+ 57              	J166            	J168            	136.352344  	160.000000  	135.000000  	0.000000    	Open  	;
+ 570             	J656            	J842            	18.854538   	200.000000  	135.000000  	0.000000    	Open  	;
+ 571             	J844            	J118            	9.078481    	200.000000  	135.000000  	0.000000    	Open  	;
+ 572             	J902            	J872            	1.162006    	300.000000  	135.000000  	0.000000    	Open  	;
+ 573             	J870            	J1030           	13.180016   	300.000000  	135.000000  	0.000000    	Open  	;
+ 574             	J1032           	J862            	5.230153    	300.000000  	135.000000  	0.000000    	Open  	;
+ 575             	J866            	J854            	4.564234    	300.000000  	135.000000  	0.000000    	Open  	;
+ 576             	J1062           	J864            	0.758080    	150.000000  	135.000000  	0.000000    	Open  	;
+ 577             	J1062           	J1008           	8.828059    	150.000000  	135.000000  	0.000000    	Open  	;
+ 578             	J648            	J1064           	5.847203    	60.000000   	132.500000  	0.000000    	Open  	;
+ 579             	J1064           	J616            	5.847203    	60.000000   	132.500000  	0.000000    	Open  	;
+ 58              	J168            	J170            	136.352344  	160.000000  	135.000000  	0.000000    	Open  	;
+ 588             	J622            	J126            	25.906704   	60.000000   	132.500000  	0.000000    	Open  	;
+ 589             	J126            	J1088           	25.906704   	60.000000   	132.500000  	0.000000    	Open  	;
+ 59              	J116            	J172            	18.052036   	32.000000   	135.000000  	0.000000    	Open  	;
+ 590             	J1088           	J606            	25.906704   	60.000000   	132.500000  	0.000000    	Open  	;
+ 591             	J170            	J578            	4.247008    	160.000000  	135.000000  	0.000000    	Open  	;
+ 592             	J574            	J164            	31.084151   	60.000000   	132.500000  	0.000000    	Open  	;
+ 593             	J164            	J20             	31.084151   	60.000000   	132.500000  	0.000000    	Open  	;
+ 594             	J576            	J578            	45.535548   	60.000000   	132.500000  	0.000000    	Open  	;
+ 595             	J578            	J566            	45.535548   	60.000000   	132.500000  	0.000000    	Open  	;
+ 6               	J30             	J32             	151.624805  	110.000000  	132.500000  	0.000000    	Open  	;
+ 60              	J174            	J176            	118.250930  	60.000000   	132.500000  	0.000000    	Open  	;
+ 604             	J156            	J596            	23.385571   	60.000000   	132.500000  	0.000000    	Open  	;
+ 605             	J158            	J268            	16.935371   	60.000000   	132.500000  	0.000000    	Open  	;
+ 606             	J1098           	J1100           	0.667027    	160.000000  	135.000000  	0.000000    	Open  	;
+ 607             	J170            	J1098           	0.606844    	160.000000  	135.000000  	0.000000    	Open  	;
+ 61              	J178            	J180            	26.605452   	60.000000   	132.500000  	0.000000    	Open  	;
+ 62              	J182            	J184            	22.442204   	60.000000   	132.500000  	0.000000    	Open  	;
+ 63              	J186            	J146            	29.195887   	32.000000   	135.000000  	0.000000    	Open  	;
+ 64              	J188            	J190            	4.505068    	60.000000   	132.500000  	0.000000    	Open  	;
+ 65              	J192            	J194            	8.042816    	60.000000   	132.500000  	0.000000    	Open  	;
+ 66              	J196            	J198            	7.890146    	32.000000   	135.000000  	0.000000    	Open  	;
+ 67              	J200            	J196            	11.813522   	32.000000   	135.000000  	0.000000    	Open  	;
+ 68              	J134            	J200            	13.218642   	32.000000   	135.000000  	0.000000    	Open  	;
+ 69              	J202            	J98             	6.885011    	60.000000   	132.500000  	0.000000    	Open  	;
+ 7               	J34             	J26             	84.531775   	110.000000  	132.500000  	0.000000    	Open  	;
+ 70              	J96             	J204            	4.492012    	60.000000   	132.500000  	0.000000    	Open  	;
+ 71              	J206            	J208            	12.654378   	32.000000   	135.000000  	0.000000    	Open  	;
+ 72              	J210            	J212            	15.378745   	32.000000   	135.000000  	0.000000    	Open  	;
+ 73              	J214            	J216            	22.435118   	32.000000   	135.000000  	0.000000    	Open  	;
+ 74              	J218            	J212            	18.632299   	32.000000   	135.000000  	0.000000    	Open  	;
+ 75              	J220            	J218            	11.985462   	32.000000   	135.000000  	0.000000    	Open  	;
+ 76              	J222            	J220            	11.873437   	32.000000   	135.000000  	0.000000    	Open  	;
+ 77              	J106            	J110            	16.847605   	32.000000   	135.000000  	0.000000    	Open  	;
+ 78              	J224            	J226            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 79              	J226            	J228            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 8               	J30             	J34             	11.773198   	110.000000  	132.500000  	0.000000    	Open  	;
+ 80              	J228            	J230            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 81              	J230            	J232            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 82              	J232            	J234            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 83              	J234            	J236            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 84              	J236            	J238            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 85              	J238            	J240            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 86              	J240            	J242            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 87              	J242            	J244            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 88              	J244            	J246            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 89              	J246            	J248            	52.310163   	60.000000   	132.500000  	0.000000    	Open  	;
+ 9               	J36             	J30             	3.050393    	110.000000  	132.500000  	0.000000    	Open  	;
+ 90              	J250            	J252            	10.215763   	60.000000   	132.500000  	0.000000    	Open  	;
+ 91              	J250            	J254            	41.560004   	60.000000   	132.500000  	0.000000    	Open  	;
+ 92              	J256            	J258            	167.227830  	60.000000   	132.500000  	0.000000    	Open  	;
+ 93              	J258            	J254            	167.227830  	60.000000   	132.500000  	0.000000    	Open  	;
+ 94              	J254            	J260            	47.239570   	60.000000   	132.500000  	0.000000    	Open  	;
+ 95              	J72             	J262            	64.860250   	32.000000   	135.000000  	0.000000    	Open  	;
+ 96              	J264            	J202            	59.201362   	32.000000   	135.000000  	0.000000    	Open  	;
+ 97              	J56             	J266            	21.501222   	60.000000   	132.500000  	0.000000    	Open  	;
+ 98              	J268            	J270            	133.505639  	60.000000   	132.500000  	0.000000    	Open  	;
+ 99              	J270            	J272            	133.505639  	60.000000   	132.500000  	0.000000    	Open  	;
+ P21             	J986            	J970            	3.280000    	100.000000  	125.000000  	0.000000    	Open  	;New Pipe
+ P35             	J980            	V8002_NU        	4.140000    	200.000000  	135.000000  	0.000000    	Open  	;Connecting pipe
+ P37             	V8002_ND        	J884            	22.270000   	200.000000  	135.000000  	0.000000    	Open  	;Connecting pipe
+ P49             	RAP.VAM.001.LIT.001.000	J850            	8.220000    	300.000000  	135.000000  	0.000000    	Open  	;New Pipe
+ P51             	RAP.VAM.001.LIT.002.000	J858            	7.550000    	300.000000  	135.000000  	0.000000    	Open  	;New Pipe
+ 45              	J858            	J866            	1.611565    	300         	135         	0           	CV    	;
+ 46              	J850            	J856            	1.584925    	300         	135         	0           	CV    	;
+ 47              	CAP.CQZ         	J1110           	2643.64     	250         	135         	0           	Open  	;
+ 412             	J1110           	J1112           	8.22        	250         	135         	0           	Open  	;
+ 414             	J1112           	RAP.VAM.001.LIT.001.000	9.28        	250         	135         	0           	CV    	;
+ 422             	J1112           	RAP.VAM.001.LIT.002.000	9.28        	250         	135         	0           	CV    	;
+
+[PUMPS]
+;ID              	Node1           	Node2           	Parameters
+
+[VALVES]
+;ID              	Node1           	Node2           	Diameter    	Type	Setting     	MinorLoss   
+ V8002           	V8002_NU        	V8002_ND        	200.000000  	PRV 	10.000000   	0.000000    	;New Valve
+
+[TAGS]
+
+[DEMANDS]
+;Junction        	Demand      	Pattern         	Category
+
+[STATUS]
+;ID              	Status/Setting
+
+[PATTERNS]
+;ID              	Multipliers
+;New Pattern
+ PATN-1          	958.950000  	958.920000  	959.040000  	959.240000  	959.330000  	959.220000  
+ PATN-1          	959.090000  	958.960000  	958.840000  	958.700000  	958.640000  	958.830000  
+ PATN-1          	959.050000  	959.180000  	959.200000  	959.110000  	958.930000  	958.730000  
+ PATN-1          	958.720000  	958.840000  	958.960000  	959.080000  	959.130000  
+;New Pattern
+ PATN-3          	958.670000  	958.660000  	958.760000  	958.960000  	959.080000  	958.990000  
+ PATN-3          	958.860000  	958.730000  	958.600000  	958.470000  	958.400000  	958.570000  
+ PATN-3          	958.740000  	958.820000  	958.810000  	958.710000  	958.510000  	958.280000  
+ PATN-3          	958.270000  	958.400000  	958.540000  	958.760000  	958.720000  
+;
+ Consumo         	1.2         	1.07        	1.02        	1           	1.07        	1.6         
+ Consumo         	1.71        	2           	2.34        	2.58        	2.69        	2.73        
+ Consumo         	2.52        	2.43        	2.37        	2.36        	2.36        	2.42        
+ Consumo         	2.42        	2.3         	2.16        	1.93        	1.71        	1.36        
+
+[CURVES]
+;ID              	X-Value     	Y-Value
+
+[CONTROLS]
+
+
+[RULES]
+
+[ENERGY]
+ Global Efficiency  	75
+ Global Price       	0
+ Demand Charge      	0
+
+[EMITTERS]
+;Junction        	Coefficient
+
+[QUALITY]
+;Node            	InitQual
+
+[SOURCES]
+;Node            	Type        	Quality     	Pattern
+
+[REACTIONS]
+;Type     	Pipe/Tank       	Coefficient
+
+
+[REACTIONS]
+ Order Bulk            	1
+ Order Tank            	1
+ Order Wall            	1
+ Global Bulk           	0
+ Global Wall           	0
+ Limiting Potential    	0
+ Roughness Correlation 	0
+
+[MIXING]
+;Tank            	Model
+
+[TIMES]
+ Duration           	24:00
+ Hydraulic Timestep 	1:00
+ Quality Timestep   	1:00
+ Pattern Timestep   	1:00 
+ Pattern Start      	0:00
+ Report Timestep    	1:00
+ Report Start       	0:00 
+ Start ClockTime    	0:00
+ Statistic          	None
+
+[REPORT]
+ Status             	No
+ Summary            	No
+ Page               	0
+
+[OPTIONS]
+ Units              	LPS
+ Headloss           	H-W
+ Specific Gravity   	1.000000
+ Viscosity          	1.000000
+ Trials             	40.000000
+ Accuracy           	0.001000
+ CHECKFREQ          	10
+ MAXCHECK           	10
+ DAMPLIMIT          	0.000000
+ Unbalanced         	Continue 10
+ Pattern            	Consumo
+ Demand Multiplier  	1.000000
+ Demand Model       	PDA
+ Minimum Pressure   	0
+ Required Pressure  	0.1
+ Pressure Exponent  	0.5
+ Emitter Exponent   	0.500000
+ Quality            	NONE mg/L
+ Diffusivity        	1.000000
+ Tolerance          	0.010000
+
+[COORDINATES]
+;Node            	X-Coord           	Y-Coord
+J10             	215665.947        	8264835.294       
+J100            	215058.093        	8264644.922       
+J1000           	216144.243        	8265658.964       
+J1002           	216119.396        	8265477.901       
+J1004           	216254.015        	8265367.843       
+J1006           	216050.141        	8265280.260       
+J1008           	215464.401        	8264749.259       
+J1010           	215464.805        	8264696.031       
+J1012           	215465.595        	8264696.113       
+J1014           	215368.144        	8264435.219       
+J1016           	215347.007        	8264438.188       
+J1018           	215328.854        	8264440.516       
+J102            	215427.793        	8264457.242       
+J1020           	215309.032        	8264443.403       
+J1022           	215287.112        	8264446.199       
+J1024           	215265.715        	8264449.078       
+J1026           	215262.188        	8264449.320       
+J1028           	215257.744        	8264449.504       
+J1030           	215467.144        	8264778.315       
+J1032           	215465.718        	8264764.834       
+J1034           	215856.937        	8265194.985       
+J1036           	215762.411        	8265150.903       
+J1038           	215623.331        	8264955.874       
+J104            	215337.893        	8264472.442       
+J1040           	215838.326        	8265187.082       
+J1042           	215816.872        	8265178.418       
+J1044           	215747.383        	8265148.680       
+J1046           	215729.451        	8265141.253       
+J1048           	215707.537        	8265132.486       
+J1050           	215689.873        	8265125.000       
+J1052           	215672.129        	8265117.226       
+J1054           	215655.374        	8265110.043       
+J1056           	215635.164        	8265100.700       
+J1058           	215616.717        	8265092.255       
+J106            	214806.412        	8264992.533       
+J1060           	215554.307        	8265058.394       
+J1062           	215461.472        	8264757.587       
+J1064           	215491.670        	8264763.991       
+J108            	214806.262        	8264987.583       
+J1088           	215692.467        	8264776.025       
+J1098           	215707.454        	8264580.266       
+J110            	214789.582        	8264991.763       
+J1100           	215708.120        	8264580.229       
+J112            	214789.677        	8264986.393       
+J114            	214884.992        	8264963.013       
+J116            	214843.912        	8264984.563       
+J118            	215666.431        	8264835.370       
+J12             	215665.205        	8264834.963       
+J120            	215669.501        	8264825.213       
+J122            	215675.688        	8264805.305       
+J124            	215682.440        	8264785.506       
+J126            	215685.596        	8264773.440       
+J128            	215593.684        	8265004.958       
+J130            	215609.435        	8264983.519       
+J132            	214907.132        	8264824.963       
+J134            	214899.042        	8264831.083       
+J136            	216082.481        	8265798.203       
+J14             	215486.625        	8264895.314       
+J146            	215200.503        	8264529.572       
+J148            	215222.673        	8264532.142       
+J150            	215132.673        	8264451.062       
+J152            	215172.543        	8264449.812       
+J154            	215093.813        	8264453.552       
+J156            	215701.499        	8264716.111       
+J158            	215705.458        	8264696.796       
+J16             	215480.781        	8264892.976       
+J160            	215707.142        	8264675.390       
+J162            	215707.156        	8264656.549       
+J164            	215707.230        	8264638.871       
+J166            	215706.736        	8264621.256       
+J168            	215706.723        	8264594.346       
+J170            	215706.848        	8264580.234       
+J172            	214828.252        	8264993.543       
+J174            	215372.193        	8264370.542       
+J176            	215254.494        	8264381.959       
+J178            	215314.463        	8264504.362       
+J18             	215454.630        	8264882.704       
+J180            	215330.203        	8264482.912       
+J182            	215254.713        	8264572.442       
+J184            	215268.763        	8264554.942       
+J186            	215171.323        	8264530.532       
+J188            	215772.892        	8264300.834       
+J190            	215774.733        	8264296.722       
+J192            	216360.623        	8265127.706       
+J194            	216355.863        	8265121.223       
+J196            	214881.902        	8264849.243       
+J198            	214875.702        	8264854.123       
+J20             	215722.803        	8264641.723       
+J200            	214890.622        	8264841.273       
+J202            	215005.695        	8264722.365       
+J204            	215032.375        	8264671.704       
+J206            	215038.473        	8264680.792       
+J208            	215049.673        	8264686.683       
+J210            	214748.792        	8264948.413       
+J212            	214755.222        	8264962.383       
+J214            	214771.722        	8264944.213       
+J216            	214749.632        	8264948.133       
+J218            	214764.302        	8264978.653       
+J22             	215830.443        	8264658.823       
+J220            	214772.782        	8264987.123       
+J222            	214783.822        	8264991.493       
+J224            	215710.113        	8264319.452       
+J226            	215713.059        	8264320.005       
+J228            	215716.004        	8264320.558       
+J230            	215718.950        	8264321.110       
+J232            	215725.980        	8264322.429       
+J234            	215733.034        	8264323.596       
+J236            	215740.048        	8264325.030       
+J238            	215743.803        	8264325.799       
+J24             	216204.643        	8265511.974       
+J240            	215747.295        	8264327.512       
+J242            	215750.893        	8264328.823       
+J244            	215754.121        	8264329.998       
+J246            	215757.349        	8264331.174       
+J248            	215760.576        	8264332.350       
+J250            	216363.352        	8265131.356       
+J252            	216369.813        	8265123.443       
+J254            	216337.695        	8265164.051       
+J256            	216213.303        	8265052.283       
+J258            	216336.523        	8265162.998       
+J26             	216177.113        	8265580.914       
+J260            	216372.833        	8265195.623       
+J262            	215139.563        	8264525.742       
+J264            	214972.232        	8264771.203       
+J266            	215415.537        	8264591.874       
+J268            	215722.227        	8264699.164       
+J270            	215788.982        	8264713.198       
+J272            	215854.182        	8264716.651       
+J274            	215844.796        	8264661.874       
+J276            	215858.361        	8264709.154       
+J278            	215585.273        	8264615.983       
+J28             	216317.063        	8265647.084       
+J280            	215770.912        	8264304.832       
+J282            	215729.503        	8265491.863       
+J284            	215725.650        	8265502.281       
+J286            	215708.923        	8264435.803       
+J288            	215703.823        	8264434.811       
+J290            	215766.695        	8264313.241       
+J292            	215762.773        	8264333.033       
+J294            	215794.583        	8264386.213       
+J296            	215709.533        	8264384.463       
+J298            	215326.633        	8264480.492       
+J30             	216138.193        	8265669.004       
+J300            	215335.393        	8264475.842       
+J302            	215332.945        	8264473.279       
+J304            	215332.233        	8264472.532       
+J306            	215214.923        	8264566.432       
+J308            	215214.773        	8264562.372       
+J310            	215229.423        	8264455.182       
+J312            	215225.833        	8264455.172       
+J314            	215180.933        	8264385.732       
+J316            	215180.683        	8264380.892       
+J318            	214872.513        	8264423.482       
+J32             	216278.103        	8265727.444       
+J320            	214873.953        	8264419.632       
+J322            	214771.762        	8264942.463       
+J324            	214775.452        	8264942.463       
+J326            	214772.372        	8264917.823       
+J328            	214777.002        	8264917.833       
+J330            	214777.642        	8264900.913       
+J332            	214773.402        	8264897.733       
+J334            	214830.612        	8264874.633       
+J336            	214827.992        	8264869.613       
+J338            	214919.462        	8264918.863       
+J34             	216142.903        	8265658.214       
+J340            	214915.472        	8264915.653       
+J342            	214890.792        	8264886.243       
+J344            	214894.452        	8264882.573       
+J346            	214955.512        	8264842.033       
+J348            	214957.832        	8264838.933       
+J350            	214973.762        	8264855.913       
+J352            	214976.572        	8264852.653       
+J354            	215010.582        	8264808.253       
+J356            	215013.612        	8264804.673       
+J358            	214967.492        	8264767.613       
+J36             	216136.873        	8265671.754       
+J360            	215045.173        	8264743.213       
+J362            	215042.663        	8264746.003       
+J364            	215211.093        	8264622.613       
+J366            	215209.403        	8264624.743       
+J368            	215207.233        	8264627.453       
+J370            	215183.713        	8264663.443       
+J372            	215189.153        	8264618.593       
+J374            	215189.753        	8264614.413       
+J376            	215235.083        	8264596.543       
+J378            	215222.393        	8264565.852       
+J38             	215933.633        	8265572.434       
+J380            	215189.443        	8264563.002       
+J382            	215188.543        	8264565.642       
+J384            	215222.403        	8264557.352       
+J386            	215232.133        	8264484.132       
+J388            	215231.853        	8264507.152       
+J390            	215226.443        	8264530.112       
+J392            	215230.433        	8264516.882       
+J394            	215225.373        	8264531.182       
+J396            	215143.143        	8264655.593       
+J398            	215160.083        	8264660.283       
+J40             	215337.013        	8264585.443       
+J400            	215144.473        	8264619.682       
+J402            	215141.683        	8264570.472       
+J404            	215072.635        	8264541.820       
+J406            	214952.973        	8264568.322       
+J408            	214982.393        	8264588.012       
+J410            	215012.633        	8264609.052       
+J412            	215031.843        	8264621.812       
+J414            	215045.693        	8264629.592       
+J416            	215039.893        	8264626.642       
+J418            	214923.502        	8264913.693       
+J42             	215328.273        	8264592.113       
+J420            	214947.452        	8264889.443       
+J422            	214977.972        	8264859.113       
+J424            	214997.032        	8264841.123       
+J426            	215012.452        	8264822.943       
+J428            	215020.642        	8264814.543       
+J430            	215045.942        	8264788.723       
+J432            	215070.513        	8264762.113       
+J434            	215084.733        	8264741.463       
+J436            	215106.093        	8264713.653       
+J438            	215134.403        	8264686.943       
+J44             	215315.763        	8264543.642       
+J440            	214776.182        	8264902.013       
+J442            	214772.562        	8264910.113       
+J444            	214786.252        	8264894.473       
+J446            	214797.992        	8264889.153       
+J448            	214852.352        	8264866.083       
+J450            	214831.272        	8264874.343       
+J452            	214864.612        	8264860.773       
+J454            	214870.822        	8264869.483       
+J456            	214924.882        	8264811.423       
+J458            	214943.482        	8264831.053       
+J46             	215308.903        	8264548.772       
+J460            	214965.912        	8264780.403       
+J462            	215248.653        	8264395.292       
+J464            	215254.620        	8264427.207       
+J466            	215246.693        	8264382.642       
+J468            	215246.714        	8264382.782       
+J470            	215079.753        	8264389.512       
+J472            	215079.943        	8264384.192       
+J474            	215080.003        	8264426.982       
+J476            	215086.633        	8264389.482       
+J478            	215118.373        	8264388.662       
+J48             	215249.803        	8264667.173       
+J480            	215082.103        	8264448.442       
+J482            	215083.883        	8264448.622       
+J484            	215083.583        	8264453.592       
+J486            	215072.063        	8264447.562       
+J488            	215056.383        	8264447.562       
+J490            	215029.203        	8264444.302       
+J492            	214928.843        	8264444.642       
+J494            	214928.483        	8264446.382       
+J496            	214939.982        	8264608.322       
+J498            	214976.493        	8264623.542       
+J50             	215394.083        	8264684.143       
+J500            	215012.223        	8264644.642       
+J502            	215061.923        	8264626.212       
+J504            	215065.093        	8264606.182       
+J506            	215816.953        	8264519.283       
+J508            	215818.193        	8264586.563       
+J510            	215402.043        	8264950.706       
+J512            	215430.304        	8264922.399       
+J514            	215577.833        	8264556.163       
+J516            	215585.863        	8264620.683       
+J518            	215315.123        	8264640.873       
+J52             	215216.763        	8264661.043       
+J520            	215478.533        	8264667.383       
+J522            	215236.323        	8264628.003       
+J524            	216093.573        	8264951.503       
+J526            	216061.883        	8264937.333       
+J528            	216109.503        	8264958.663       
+J530            	215776.694        	8264522.455       
+J532            	215800.974        	8264523.018       
+J534            	215811.419        	8264485.235       
+J536            	215807.543        	8264463.099       
+J538            	215811.853        	8264489.173       
+J54             	215377.673        	8264599.183       
+J540            	215682.388        	8264509.092       
+J542            	215707.203        	8264513.015       
+J544            	215716.137        	8264514.213       
+J546            	215741.507        	8264517.513       
+J548            	215758.328        	8264519.952       
+J550            	215709.513        	8264448.493       
+J552            	215707.526        	8264486.809       
+J554            	215498.773        	8264306.242       
+J556            	215371.463        	8264322.052       
+J558            	215367.333        	8264322.052       
+J56             	215394.343        	8264595.493       
+J560            	215569.363        	8264370.542       
+J562            	215430.423        	8264423.482       
+J564            	215789.243        	8264458.753       
+J566            	215732.247        	8264580.418       
+J568            	215803.563        	8264585.133       
+J570            	215517.163        	8264488.673       
+J572            	215486.833        	8264460.023       
+J574            	215692.238        	8264636.066       
+J576            	215687.458        	8264572.218       
+J578            	215706.840        	8264575.987       
+J58             	215352.073        	8264603.353       
+J580            	215706.949        	8264552.830       
+J582            	215707.172        	8264526.065       
+J584            	215637.593        	8264692.863       
+J586            	215929.313        	8264878.053       
+J588            	216070.393        	8264920.353       
+J590            	215973.103        	8264829.443       
+J592            	215931.563        	8264808.453       
+J594            	215938.023        	8264796.843       
+J596            	215723.470        	8264724.121       
+J598            	215689.575        	8264759.714       
+J60             	215346.413        	8264600.973       
+J600            	215695.170        	8264740.063       
+J602            	215701.131        	8264717.353       
+J604            	215926.220        	8264881.489       
+J606            	215703.827        	8264781.480       
+J608            	215464.003        	8264695.947       
+J610            	215441.153        	8264691.338       
+J612            	215486.763        	8264701.163       
+J614            	215487.083        	8264698.423       
+J616            	215493.574        	8264758.467       
+J618            	215498.643        	8264731.543       
+J62             	215340.163        	8264590.253       
+J620            	215487.723        	8264727.183       
+J622            	215680.023        	8264771.317       
+J624            	215687.209        	8264834.068       
+J626            	216123.363        	8265023.031       
+J628            	215510.212        	8264763.324       
+J630            	215530.425        	8264769.023       
+J632            	215550.122        	8264775.611       
+J634            	215569.655        	8264783.768       
+J636            	215589.901        	8264791.706       
+J638            	215609.043        	8264799.820       
+J64             	215325.573        	8264567.933       
+J640            	215631.264        	8264809.852       
+J642            	215651.213        	8264818.427       
+J644            	215669.781        	8264827.391       
+J646            	215471.153        	8264815.343       
+J648            	215491.668        	8264763.995       
+J650            	215496.623        	8264826.233       
+J652            	215486.413        	8264895.853       
+J654            	215626.193        	8264944.813       
+J656            	215653.315        	8264886.797       
+J658            	216458.493        	8265311.064       
+J66             	214916.973        	8264503.112       
+J660            	216466.473        	8265324.004       
+J662            	216464.783        	8265325.244       
+J664            	216476.203        	8265343.984       
+J666            	216484.353        	8265362.244       
+J668            	216496.613        	8265400.314       
+J670            	216498.603        	8265433.304       
+J672            	216467.623        	8265325.874       
+J674            	216411.123        	8265433.434       
+J676            	216442.353        	8265369.484       
+J678            	216410.553        	8265240.413       
+J68             	214922.333        	8264476.032       
+J680            	216461.933        	8265309.004       
+J682            	216450.103        	8265303.194       
+J684            	216446.093        	8265309.504       
+J686            	215392.042        	8264950.706       
+J688            	215379.177        	8264976.361       
+J690            	215389.628        	8264986.841       
+J692            	215442.512        	8265010.811       
+J694            	215420.146        	8265000.142       
+J696            	215418.403        	8264999.293       
+J698            	215404.126        	8264992.735       
+J70             	214986.603        	8264519.502       
+J700            	215442.969        	8265009.383       
+J702            	215550.187        	8265063.675       
+J704            	215463.099        	8264947.398       
+J706            	215462.796        	8264948.351       
+J708            	215599.313        	8265006.983       
+J710            	216137.663        	8264985.313       
+J712            	216043.093        	8265061.553       
+J714            	215672.703        	8265461.053       
+J716            	215731.183        	8265486.853       
+J718            	215703.273        	8265380.953       
+J72             	215074.703        	8264525.562       
+J720            	215550.793        	8265407.383       
+J722            	215615.003        	8265435.763       
+J724            	215496.473        	8265383.343       
+J726            	215435.603        	8265356.783       
+J728            	215371.753        	8265328.343       
+J730            	215582.043        	8265331.513       
+J732            	215647.053        	8265357.963       
+J734            	215523.243        	8265307.513       
+J736            	215461.343        	8265282.303       
+J738            	215394.713        	8265255.113       
+J74             	214954.833        	8264517.462       
+J740            	215735.863        	8265300.383       
+J742            	215798.913        	8265326.753       
+J744            	215884.603        	8265374.063       
+J746            	215997.293        	8265422.313       
+J748            	216364.343        	8265206.643       
+J750            	216213.133        	8265202.523       
+J752            	216209.073        	8265212.953       
+J754            	216017.583        	8265118.533       
+J756            	216237.303        	8265147.533       
+J758            	216091.673        	8265082.593       
+J76             	214914.703        	8264516.152       
+J760            	216206.073        	8265061.853       
+J762            	216069.163        	8265072.843       
+J764            	215806.703        	8265023.888       
+J766            	215929.965        	8265149.425       
+J768            	215935.463        	8265151.793       
+J770            	216188.893        	8265262.813       
+J772            	215907.153        	8265215.573       
+J774            	215915.113        	8265300.343       
+J776            	215828.713        	8265261.123       
+J778            	215945.383        	8265233.023       
+J78             	214911.982        	8264539.772       
+J780            	216028.983        	8265348.323       
+J782            	215856.853        	8265436.013       
+J784            	215971.713        	8265485.003       
+J786            	216057.053        	8265281.763       
+J788            	216134.423        	8265393.483       
+J790            	216163.233        	8265326.593       
+J792            	216265.673        	8265371.054       
+J794            	216381.223        	8265500.794       
+J796            	216349.033        	8265573.814       
+J798            	216236.823        	8265439.044       
+J80             	214909.602        	8264538.212       
+J800            	216102.943        	8265467.904       
+J802            	216120.983        	8265475.154       
+J804            	216254.713        	8265366.074       
+J806            	216050.813        	8265278.803       
+J808            	215874.297        	8265202.143       
+J810            	215847.141        	8265217.229       
+J812            	215854.631        	8265200.580       
+J814            	215801.583        	8265338.533       
+J816            	215795.063        	8265335.713       
+J818            	215768.283        	8265398.063       
+J82             	214906.702        	8264551.742       
+J820            	215742.723        	8265457.583       
+J822            	215945.943        	8265544.794       
+J824            	215831.543        	8265495.733       
+J826            	215817.013        	8265528.973       
+J828            	215809.243        	8265525.813       
+J830            	215931.393        	8265577.164       
+J832            	215928.643        	8265583.144       
+J834            	215318.373        	8264549.233       
+J836            	215309.823        	8264530.932       
+J838            	215301.663        	8264519.282       
+J84             	214927.792        	8264550.412       
+J840            	215215.593        	8264667.433       
+J842            	215658.055        	8264868.548       
+J844            	215664.309        	8264844.197       
+J846            	215639.867        	8264922.811       
+J848            	215647.247        	8264905.014       
+J850            	215442.833        	8264751.941       
+J854            	215453.630        	8264754.939       
+J856            	215443.541        	8264750.523       
+J858            	215457.189        	8264758.047       
+J86             	214860.132        	8264595.662       
+J862            	215465.148        	8264759.635       
+J864            	215461.125        	8264758.261       
+J866            	215457.884        	8264756.593       
+J868            	215468.324        	8264796.585       
+J870            	215467.888        	8264791.474       
+J872            	215625.852        	8264950.136       
+J874            	215774.089        	8265159.940       
+J876            	215791.657        	8265167.502       
+J878            	215760.792        	8265154.481       
+J88             	214856.912        	8264609.452       
+J880            	215762.338        	8265151.228       
+J884            	215599.698        	8265084.956       
+J886            	215567.444        	8265041.352       
+J888            	215580.917        	8265022.818       
+J890            	216067.097        	8265077.117       
+J892            	215723.863        	8265506.323       
+J894            	214910.592        	8264534.612       
+J896            	215617.864        	8264968.808       
+J898            	215624.333        	8264956.521       
+J90             	214896.132        	8264601.662       
+J900            	215625.864        	8264953.091       
+J902            	215626.883        	8264950.672       
+J904            	215628.955        	8264945.679       
+J906            	215631.027        	8264941.434       
+J908            	215650.661        	8264953.936       
+J910            	215221.257        	8264448.382       
+J912            	216081.393        	8265800.744       
+J914            	214954.822        	8264841.513       
+J916            	215006.512        	8264805.703       
+J918            	215112.143        	8264654.613       
+J92             	215036.753        	8264656.142       
+J920            	215207.836        	8264666.085       
+J922            	215208.853        	8264566.912       
+J924            	215069.263        	8264581.022       
+J926            	215811.687        	8264487.538       
+J928            	215811.503        	8264485.713       
+J930            	216179.883        	8264856.333       
+J932            	215559.195        	8264249.610       
+J934            	215458.608        	8264256.933       
+J936            	215601.618        	8264256.835       
+J938            	215761.603        	8264329.766       
+J94             	215040.983        	8264641.832       
+J940            	215762.633        	8264327.179       
+J942            	215763.663        	8264324.593       
+J944            	215764.448        	8264322.622       
+J946            	215766.033        	8264320.878       
+J948            	215766.217        	8264318.765       
+J950            	215766.377        	8264316.923       
+J952            	215766.537        	8264315.081       
+J954            	215078.743        	8264701.813       
+J956            	215104.913        	8264653.812       
+J958            	215222.093        	8264626.263       
+J96             	215030.653        	8264675.852       
+J960            	214862.933        	8264419.622       
+J962            	215228.812        	8264448.614       
+J970            	215571.715        	8265082.394       
+J972            	215574.725        	8265076.621       
+J974            	215570.343        	8265079.235       
+J976            	215572.624        	8265073.546       
+J978            	215570.875        	8265072.839       
+J98             	215009.552        	8264716.663       
+J980            	215575.379        	8265074.659       
+J986            	215569.451        	8265081.345       
+J988            	215935.100        	8265151.637       
+J990            	215558.805        	8265067.661       
+J992            	215805.959        	8265025.841       
+J994            	215623.816        	8264956.173       
+J996            	215800.871        	8265339.738       
+J998            	215806.756        	8265530.902       
+V8002_NU        	215577.668        	8265075.628       
+V8002_ND        	215587.395        	8265079.747       
+J1110           	215441.073        	8264774.384       
+J1112           	215443.363        	8264769.804       
+CAP.CQZ         	215435.501        	8264786.049       
+RAP.VAM.001.LIT.001.000	215438.585        	8264758.979       
+RAP.VAM.001.LIT.002.000	215453.614        	8264764.694       
+
+[VERTICES]
+;Link            	X-Coord           	Y-Coord
+P37             	215599.698        	8265084.956       
+
+[LABELS]
+;X-Coord             Y-Coord             Label & Anchor Node
+
+[BACKDROP]
+  DIMENSIONS  	214661.302        	8264172.053       	216586.094        	8265878.300       
+ UNITS          	None
+ FILE           	
+ OFFSET         	0.00            	0.00            
+
+[END]
