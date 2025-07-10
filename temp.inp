@@ -1,6 +1,6 @@
 ; Filename: PK_QD28_TESTE_DOS_NOS_DUPLICADOS (20).inp
 ; WNTR: 1.3.2
-; Created: 2025-07-09 15:27:53
+; Created: 2025-07-10 08:05:50
 [TITLE]
 
 [JUNCTIONS]
@@ -500,7 +500,7 @@
 
 [RESERVOIRS]
 ;ID                                   Head                  Pattern
- R1                           1156.99                            ;
+ R1                           1159.99                            ;
 
 [TANKS]
 ;ID                              Elevation           Init Level            Min Level            Max Level             Diameter           Min Volume Volume Curve         Overflow            
@@ -876,6 +876,7 @@
  P376                 N351                 N352                    44.206643021              32             140               0                 Open   ;
  P377                 N352                 N353                    52.316450249              32             140               0                 Open   ;
  P378                 N353                 N354                    45.869007359              32             140               0                 Open   ;
+ P379                 N22                  N355                    61.343529335              32             140               0                 Open   ;
  P380                 N355                 N356                    54.320705326              32             140               0                 Open   ;
  P381                 N356                 N357                    44.729808239              32             140               0                 Open   ;
  P382                 N357                 N358                    50.446840577              32             140               0                 Open   ;
@@ -1048,7 +1049,6 @@
 
 [VALVES]
 ;ID                   Node1                Node2                            Diameter Type              Setting           Minor Loss
- VRP_P379             N355                 N22                               32 PRV               20              10   ;
 
 [TAGS]
 ;type      name       tag       
@@ -1058,7 +1058,6 @@
 
 [STATUS]
 ;ID        Setting   
-VRP_P379   Open      
 
 [PATTERNS]
 ;ID        Multipliers
