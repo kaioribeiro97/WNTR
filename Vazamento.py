@@ -15,6 +15,7 @@ import branca.colormap as bcm
 from math import sqrt
 from wntr.network.elements import Reservoir
 from math import sqrt
+
 # Funções:
 def vrp(wn, trecho):
 
@@ -65,19 +66,19 @@ def dividir_trecho(wn, trecho_original, novo_no, nome_trecho1=None, nome_trecho2
     """
     # Obtém informações do trecho original
     pipe = wn.get_link(trecho_original)
-    start_node = pipe.start_node_name
-    end_node = pipe.end_node_name
+    start_node_name = pipe.start_node_name
+    end_node_name = pipe.end_node_name
     diametro = pipe.diameter
     rugosidade = pipe.roughness
 
     # Calcula os comprimentos com base nas coordenadas
-    def distancia(n1, n2):
-        c1 = wn.get_node(n1).coordinates
-        c2 = wn.get_node(n2).coordinates
+    def distancia(n1_name, n2_name):
+        c1 = wn.get_node(n1_name).coordinates
+        c2 = wn.get_node(n2_name).coordinates
         return sqrt((c1[0] - c2[0])**2 + (c1[1] - c2[1])**2)
 
-    comprimento_1 = distancia(start_node, novo_no)
-    comprimento_2 = distancia(novo_no, end_node)
+    comprimento_1 = distancia(start_node_name, novo_no)
+    comprimento_2 = distancia(novo_no, end_node_name)
 
     # Define nomes padrão se não fornecidos
     if nome_trecho1 is None:
@@ -88,27 +89,13 @@ def dividir_trecho(wn, trecho_original, novo_no, nome_trecho1=None, nome_trecho2
     # Remove o trecho antigo
     wn.remove_link(trecho_original)
     # Adiciona os dois novos trechos
-    wn.add_pipe(nome_trecho1, start_node, novo_no, length=comprimento_1, diameter=diametro, roughness=rugosidade)
-    wn.add_pipe(nome_trecho2, novo_no, end_node, length=comprimento_2, diameter=diametro, roughness=rugosidade)
+    wn.add_pipe(nome_trecho1, start_node_name, novo_no, length=comprimento_1, diameter=diametro, roughness=rugosidade)
+    wn.add_pipe(nome_trecho2, novo_no, end_node_name, length=comprimento_2, diameter=diametro, roughness=rugosidade)
 
     return nome_trecho1, nome_trecho2, comprimento_1, comprimento_2
 
 
-# Substitua pelos valores reais das coordenadas (x, y) dos nós
-coords = {
-    'N17': (182325.334803334, 8236241.429658412),
-    'N354': (181617.609217913, 8236027.916901818),
-    'N351': (181673.985346249, 8236280.518389829)
-}
 
-def distancia(p1, p2):
-    return sqrt((p1[0] - p2[0])**2 + (p1[1] - p2[1])**2)
-
-comprimento_1 = distancia(coords['N17'], coords['N354'])    # ≈ 15,13 m
-comprimento_2 = distancia(coords['N354'], coords['N351'])   # ≈ 22,36 m
-fator_escala = 188.12067746 / (comprimento_1 + comprimento_2)
-comprimento_1_ajustado = comprimento_1 * fator_escala
-comprimento_2_ajustado = comprimento_2 * fator_escala
 # Suppress warning messages that will be addressed in future WNTR releases
 warnings.filterwarnings("ignore", message="Column names longer than 10 characters will be truncated when saved to "
             "ESRI Shapefile.")
@@ -116,21 +103,17 @@ warnings.filterwarnings("ignore", message="'crs' was not provided.  The output d
 warnings.filterwarnings("ignore", message="Normalized/laundered field name:")
 warnings.filterwarnings("ignore", message="Geometry is in a geographic CRS.")
 wn = wntr.network.WaterNetworkModel('PK_QD28_TESTE_DOS_NOS_DUPLICADOS (20).inp')
-# wn = wntr.network.WaterNetworkModel('gua.inp')
+
 resevatorio(wn, "r1", 'N49')
 
 dividir_trecho(wn, "P375", 'N354')
-# Adicione os dois novos trechos
-rugosidade = 140
-diametro_mm = 32
-diametro_m = diametro_mm / 1000.0
-wn.add_pipe('P375_1', 'N17', 'N354', length=comprimento_1_ajustado, diameter=diametro_m, roughness=rugosidade)
-wn.add_pipe('P375_2', 'N354', 'N351', length=comprimento_2_ajustado, diameter=diametro_m, roughness=rugosidade)
 
 # Adicionar Valvulas
 vrp(wn,'P379')
 vrp(wn,'P375_1')
 vrp(wn,'P366')
+
+
 
 sim = wntr.sim.EpanetSimulator(wn)
 results = sim.run_sim()
@@ -254,7 +237,3 @@ for node, (lat, lon) in nodes_latlon.items():
         ).add_to(m)
 
 m.save('VRP_VAZAMENTO.html')
-
-
-# Gere o mapa interativo e salve em um arquivo HTML
-# wntr.graphics.plot_leaflet_network(wn, filename='rede_mapa.html')
