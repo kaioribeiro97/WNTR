@@ -1,6 +1,6 @@
 ; Filename: PK_QD28_TESTE_DOS_NOS_DUPLICADOS (20).inp
 ; WNTR: 1.3.2
-; Created: 2025-08-20 10:12:45
+; Created: 2025-08-20 10:24:17
 [TITLE]
 
 [JUNCTIONS]
@@ -1040,7 +1040,7 @@
  P543                 N501                 N492                    23.178973986              32             140               0                 Open   ;
  P544                 N302                 N303                    6.0865926097             110             140               0                 Open   ;
  P_R1_N49             r1                   N49                              0.1          110000             140               0                 Open   ;
- P375_2               N354                 N351                    54.464473678              32             140               0                 Open   ;
+ P375_2               N354                 N351                    48.783907679              32             140               0                 Open   ;
 
 [PUMPS]
 ;ID                   Node1                Node2                Properties          
