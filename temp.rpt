@@ -1,4 +1,4 @@
-  Page 1                                    Fri Jul 11 11:07:52 2025
+  Page 1                                    Tue Aug 19 14:44:36 2025
 
   ******************************************************************
   *                           E P A N E T                          *
@@ -7,20 +7,6 @@
   *                         Version 2.2                            *
   ******************************************************************
   
-  Analysis begun Fri Jul 11 11:07:52 2025
+  Analysis begun Tue Aug 19 14:44:36 2025
 
-  WARNING: Negative pressures at 0:00:00 hrs.
-  WARNING: Node N343 disconnected at 0:00:00 hrs
-  WARNING: Node N344 disconnected at 0:00:00 hrs
-  WARNING: Node N345 disconnected at 0:00:00 hrs
-  WARNING: Node N346 disconnected at 0:00:00 hrs
-  WARNING: Node N347 disconnected at 0:00:00 hrs
-  WARNING: Node N348 disconnected at 0:00:00 hrs
-  WARNING: Node N349 disconnected at 0:00:00 hrs
-  WARNING: Node N351 disconnected at 0:00:00 hrs
-  WARNING: Node N352 disconnected at 0:00:00 hrs
-  WARNING: Node N353 disconnected at 0:00:00 hrs
-  WARNING: 9 additional nodes disconnected at 0:00:00 hrs
-  WARNING: System disconnected because of Link VRP_P379
-   
-  Analysis ended Fri Jul 11 11:07:52 2025
+  Analysis ended Tue Aug 19 14:44:36 2025
